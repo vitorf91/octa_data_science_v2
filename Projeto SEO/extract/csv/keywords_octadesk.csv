@@ -1,0 +1,823 @@
+	keyword	Position	volume	difficulty	CPC	Url	Competition	title	Backlinks	Domains	length_title	length_description	length_headline	Size	word_count	text_ratio	Inlinks	Outlinks	external_outlinks	url_score	url_trust	avg_backlink_score	avg_backlink_trust	competitor	type
+0	help desk	5	9900	51.62	48.62	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.87				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+3	qualidade no atendimento	7	1600	60.85	0.87	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.08				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+4	bom atendimento	11	1300	64.51	1.66	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.03				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+5	qualidade no atendimento ao cliente	6	1000	56.79	2.11	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.07				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+8	service desk	12	2900	50.1	25.45	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.86				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+11	helpdesk	14	3600	53.54	103.89	https://www.octadesk.com/	0.84	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+38	o que é o outubro rosa	10	720	60.08	1.75	https://blog.octadesk.com/outubro-rosa/	0.17																	octadesk	first_page
+39	solaser	12	6600	65.96	0.06	https://solaser.octadesk.com/helpcenter	0.06													1.0	3.0			octadesk	second_page
+329	dicas para um bom atendimento	5	320	59.13	0.48	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.04				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	first_page
+332	movimento outubro rosa	7	320	59.07	0.0	https://blog.octadesk.com/outubro-rosa/	0.06																	octadesk	first_page
+335	como melhorar o atendimento ao cliente	4	140	66.3	1.85	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.26				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	first_page
+366	porque outubro rosa	9	260	52.78	0.0	https://blog.octadesk.com/outubro-rosa/	0.04																	octadesk	first_page
+367	fluxograma de atendimento ao cliente	6	140	59.49	7.36	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.15				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	first_page
+368	bom atendimento ao cliente	12	590	59.57	2.11	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.07				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+369	controle de chamados	4	110	33.07	3.51	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.69																	octadesk	first_page
+370	help desk as a service	4	90	51.38	0.0	http://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.0																	octadesk	first_page
+371	gestão do atendimento	4	90	55.78	0.0	http://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.27																	octadesk	first_page
+373	melhorar atendimento ao cliente	4	90	64.27	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.3				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	first_page
+401	qualidade de atendimento ao cliente	7	140	51.59	3.03	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.13				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+402	o que é help	8	170	62.7	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.03				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+403	dicas para bom atendimento ao cliente	5	90	60.24	2.18	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.19				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	first_page
+404	qual a importancia do atendimento ao cliente	5	90	54.03	0.84	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.25				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	first_page
+405	qualidade atendimento	7	110	57.68	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.04				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+406	importancia atendimento ao cliente	11	90	54.35	0.0	http://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.25																	octadesk	second_page
+407	sistema de controle de chamados	5	90	39.79	3.84	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.9																	octadesk	first_page
+408	service desk logo	6	90	39.86	0.0	https://www.octadesk.com/	0.17	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+433	profissional de atendimento ao cliente	4	70	52.01	0.94	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.23				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	first_page
+434	service desk ou help desk	5	90	48.25	8.79	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.46				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+435	service desk help	4	70	47.39	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.29				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+437	a qualidade no atendimento ao cliente em uma empresa	11	90	57.64	0.55	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.33				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+438	sistem helpdesk	4	70	41.35	0.0	https://www.octadesk.com/	0.0	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+463	processo de atendimento ao cliente fluxograma	6	90	68.55	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.23				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	first_page
+464	excelencia no atendimento	16	880	69.7	1.3	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.21				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+465	sistema de help desk	7	110	28.81	139.54	https://www.octadesk.com/	0.99	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+490	controle de chamados free	11	90	57.77	21.08	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.82																	octadesk	second_page
+491	dicas de bom atendimento	5	90	62.08	1.72	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.02				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	first_page
+492	como fazer uma reclamação no reclame aqui	11	70	74.61	0.16	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.03																	octadesk	second_page
+493	dicas para um bom atendimento ao cliente	7	90	62.34	1.27	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.16				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	first_page
+494	sistema help desk	8	110	37.47	69.48	https://www.octadesk.com/	0.99	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+519	qualidade ao atendimento ao cliente	7	90	55.12	2.24	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.25				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+520	tag chat site	11	70	49.24	0.0	https://blog.octadesk.com/tag/chat-para-site/	0.0																	octadesk	second_page
+521	o que e outubro rosa	9	110	60.36	0.0	https://blog.octadesk.com/outubro-rosa/	0.0																	octadesk	first_page
+522	helpdesck	10	110	48.11	84.04	https://www.octadesk.com/	0.63	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+547	importancia do atendimento ao cliente	11	70	52.03	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.01				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+548	qualidade atendimento ao cliente	6	70	54.7	0.74	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.28				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+549	perfil de um bom profissional	9	110	65.17	1.14	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.02				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	first_page
+550	rodrigo ricco	18	1300	81.19	0.0	https://blog.octadesk.com/epoca-negocios-rodrigo-ricco/	0.0				58.0	148.0	8.0	55996.0	483.0	5.6271877	28.0	55.0	6.0					octadesk	second_page
+551	sistema de help desk	8	110	28.81	139.54	https://www.octadesk.com/help-desk	0.99	Conheça o Octadesk - Sistema de Help Desk	0.0	0.0	41.0	69.0	83.0	44636.0	691.0	10.377274	113.0	3.0	5.0					octadesk	first_page
+552	sistema de help desk	9	110	28.81	139.54	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.99				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	first_page
+553	banner outubro rosa	13	390	57.77	1.85	https://blog.octadesk.com/outubro-rosa/	0.03																	octadesk	second_page
+555	a importancia do atendimento ao cliente	10	90	56.43	1.95	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.03				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	first_page
+556	planilha de dados cadastrais de clientes	10	70	62.36	0.03	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.4																	octadesk	first_page
+557	qualidade do atendimento	6	50	58.16	2.5	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.05				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+558	sevice desk	9	70	55.71	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.61				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+559	atendimento help desk	5	40	59.95	27.57	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.94				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+560	help desk sistema	7	70	42.09	8.4	https://www.octadesk.com/	0.95	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+585	qualidade em atendimento	9	70	55.81	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.06				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+586	qualidade em atendimento	10	70	55.81	0.0	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.06				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	first_page
+587	como atender um cliente com qualidade	5	40	67.23	0.58	http://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.21																	octadesk	first_page
+588	heldesk	5	50	55.04	0.0	https://www.octadesk.com/	0.85	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+613	o que help desk	4	30	67.62	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.63				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+614	história do atendimento ao cliente	8	90	61.83	0.03	https://blog.octadesk.com/historia-de-terror-de-atendimento-ao-cliente-verdadeira-parte-1/	0.24																	octadesk	first_page
+615	sistema de helpdesk	8	70	37.84	89.65	https://www.octadesk.com/	0.99	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+640	sistema de helpdesk	9	70	37.84	89.65	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.99				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	first_page
+641	gestão de atendimento ao publico	7	70	63.61	1.98	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.4				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	first_page
+642	dicas de atendimento ao cliente	15	480	64.98	1.3	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.16				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+643	bom atendimento ao cliente	15	590	59.57	2.11	https://blog.octadesk.com/guia-de-atendimento-ao-cliente/	0.07				59.0	125.0	8.0	71803.0	1765.0	16.12189	10.0	70.0	5.0					octadesk	second_page
+644	service desck	6	50	55.47	27.76	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.74				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+645	chat on site	9	90	52.02	0.0	https://www.octadesk.com/chat-para-site	0.6																	octadesk	first_page
+646	como fazer um atendimento com qualidade	8	90	57.93	0.91	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.24				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	first_page
+647	outubro rosa no mundo	9	90	61.93	3.22	https://blog.octadesk.com/outubro-rosa/	0.1																	octadesk	first_page
+648	gestão de atendimento	8	70	52.06	2.99	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.5				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	first_page
+649	padrão de atendimento ao cliente	4	30	48.95	2.96	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.15				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+650	chat por telefone	16	260	71.4	0.09	https://blog.octadesk.com/chat-telefone-octadesk-novos-canais-de-atendimento/	0.53																	octadesk	second_page
+651	um bom atendimento	12	110	63.56	0.26	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.08				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+652	help desk online	10	50	45.34	40.11	https://www.octadesk.com/	0.88	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+677	treinamento qualidade no atendimento	12	90	44.61	4.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.2				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+678	helpdek	11	30	53.48	0.0	https://www.octadesk.com/	0.6	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+703	o que é helpdesk	10	40	70.75	0.0	http://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.29																	octadesk	first_page
+704	on site chat	12	90	46.31	0.0	https://www.octadesk.com/chat-para-site	0.0																	octadesk	second_page
+705	o que é o reclame aqui	11	40	78.41	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+706	sistema sucesso	10	260	63.01	2.02	https://www.octadesk.com/casos-de-sucesso/sistema-de-atendimento	0.08				68.0	120.0	68.0	30581.0	973.0	21.284457999999997	223.0	9.0	5.0					octadesk	first_page
+707	qualidade em atendimento ao cliente	9	50	56.79	2.08	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.09				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+708	o que é atendimento	18	390	73.91	22.51	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.06				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+709	dicas atendimento ao cliente	10	40	64.13	0.0	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.09				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	first_page
+710	procedimento de atendimento ao cliente	7	30	54.05	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.09				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	first_page
+711	qualidade do atendimento ao cliente	9	40	50.2	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.04				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+712	help disk	6	20	56.1	0.0	https://www.octadesk.com/	0.63	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+737	excelencia em atendimento	14	170	69.06	0.78	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.09				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+738	fluxograma atendimento ao cliente	9	50	57.55	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.01				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	first_page
+739	nosso chat	7	30	60.84	0.0	https://www.octadesk.com/chat-para-site	0.38																	octadesk	first_page
+740	helpdesc	6	20	51.21	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.69				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+741	chat para site	17	260	55.61	1.53	https://www.octadesk.com/chat-para-site	0.84																	octadesk	second_page
+742	excelência em atendimento	12	90	73.27	0.81	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.17				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+743	qualidade de atendimento	15	210	57.98	3.29	http://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.09																	octadesk	second_page
+744	relp desk	6	30	54.63	52.59	https://www.octadesk.com/	0.9	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+769	atende simples	5	110	69.18	1.89	https://blog.octadesk.com/integracao-atende-simples-octadesk/	0.02																	octadesk	first_page
+770	help desc	6	20	57.84	32.65	https://www.octadesk.com/	0.87	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+795	atendimento de qualidade	14	210	51.27	4.3	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.16				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+796	atendimento de qualidade	13	210	51.27	4.3	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.16				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+797	site de chat	25	720	55.73	0.68	https://www.octadesk.com/chat-para-site	0.54																	octadesk	second_page
+798	o que é um check list	55	40	72.26	0.0	http://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.0																	octadesk	second_page
+799	videos sobre atendimento ao cliente	58	50	83.17	0.0	https://www.octadesk.com/atendimento-ao-cliente	0.09				54.0	83.0	57.0	50365.0	1096.0	14.643105499999999	114.0	26.0	5.0					octadesk	second_page
+800	qual a importancia de um bom atendimento	22	90	55.64	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.06				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+801	bom atendimento online	9	30	60.88	0.0	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.07				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	first_page
+802	planilha de cadastro de clientes excel	38	210	63.75	2.6	http://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.36																	octadesk	second_page
+803	obrigado cliente	77	320	72.26	0.0	https://blog.octadesk.com/o-atendimento-ao-cliente-no-brasil-nao-vai-bem-obrigado/	0.03																	octadesk	second_page
+804	chat helpdesk	26	70	41.67	0.22	https://www.octadesk.com/	0.52	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+829	reclamação reclame aqui	24	20	79.31	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+830	atendimento online para site gratuito	43	90	49.33	0.0	https://blog.octadesk.com/sebrae-oferece-curso-gratuito-sobre-atendimento-ao-cliente/	0.79																	octadesk	second_page
+831	atendimento online gratuito	73	20	55.75	1.75	https://blog.octadesk.com/sebrae-oferece-curso-gratuito-sobre-atendimento-ao-cliente/	0.37																	octadesk	second_page
+832	reclamiaqui	49	210	75.05	0.22	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+833	vagas de atendimento ao cliente	82	90	82.98	0.61	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.39				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+834	ra reclame aqui	38	70	97.9	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+835	modelo cadastro clientes excel	75	40	74.72	1.27	http://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.3																	octadesk	second_page
+836	gestao por processos	43	320	58.69	3.16	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.5				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+837	define cultura	52	260	81.75	2.05	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.0				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+838	o que faz um help desk	16	40	71.02	5.4	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.44				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+839	baixar planilha de cadastro de clientes gratis	32	90	76.62	0.55	http://content.octadesk.com/lp-planilha-cadastro-de-clientes	0.59																	octadesk	second_page
+840	mensagens maliciosas	89	90	80.28	0.0	https://blog.octadesk.com/anti-spam-no-octadesk/	0.02																	octadesk	second_page
+841	chat de telefone	17	70	72.43	0.39	https://blog.octadesk.com/chat-telefone-octadesk-novos-canais-de-atendimento/	0.48																	octadesk	second_page
+842	defina cultura organizacional	58	70	77.55	2.44	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.0				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+843	atendimento por excelencia	17	90	66.42	0.61	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.12				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+844	sistema de atendimento ao consumidor	11	20	61.09	1.66	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.63				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+845	planilha excel controle de clientes	48	20	76.04	0.0	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.34																	octadesk	second_page
+846	melhorias de processos	47	70	48.95	2.93	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.18				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+847	reclame aqiu	35	90	75.77	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+848	operador de sac	34	70	73.36	0.03	https://blog.octadesk.com/4-dicas-para-se-tornar-o-melhor-atendente-de-sac-da-sua-empresa/	0.09																	octadesk	second_page
+849	reclame qui	62	480	73.49	0.26	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.03																	octadesk	second_page
+850	pesquisa de qualidade no atendimento ao cliente	14	90	65.84	0.0	http://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.4																	octadesk	second_page
+851	lista de verificação qualidade	94	390	56.18	0.0	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.0																	octadesk	second_page
+852	como ser um bom profissional	91	880	66.14	0.03	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.06				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+853	ele é o bom é o bom é o bom	45	590	92.9	0.0	https://blog.octadesk.com/bom-atendimento-valorizacao-produto/	0.0				55.0	156.0	8.0	66345.0	1488.0	14.218101999999998	10.0	58.0	6.0					octadesk	second_page
+854	help desk gratis	27	20	57.98	51.39	https://www.octadesk.com/	0.92	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+879	cursos 24 horas reclame aqui	35	110	71.62	0.39	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.2																	octadesk	second_page
+880	construtora plano e plano	49	320	71.97	0.61	https://www.octadesk.com/planos/sistema-de-chamados	0.29																	octadesk	second_page
+881	depois de octa vem o que	81	90	71.33	0.0	https://blog.octadesk.com/	0.0				67.0	49.0	8.0	65032.0	933.0	8.955591	330.0	75.0	5.0					octadesk	second_page
+882	características da gestão de pessoas	43	90	74.5	6.77	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.14				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+883	simulação de atendimento ao cliente	56	20	69.7	1.89	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.11				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+884	software cliente	97	30	72.14	0.0	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.19				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+885	planilha excel cadastro de clientes	48	90	73.09	3.55	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.34																	octadesk	second_page
+886	mau atendimento ou mal atendimento	21	140	72.62	0.0	https://blog.octadesk.com/mau-atendimento-excelente-produto/	0.0				64.0	135.0	8.0	69851.0	1779.0	16.03556	14.0	60.0	5.0					octadesk	second_page
+887	oq é atendimento ao cliente	61	90	74.89	0.0	https://www.octadesk.com/	0.2	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+912	tipos de abordagem ao cliente	79	90	67.5	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.1				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+913	pop atendimento ao cliente	19	90	66.56	63.55	https://blog.octadesk.com/o-sac-nunca-foi-tao-pop/	0.24				50.0	133.0	8.0	55867.0	495.0	5.754739	132.0	57.0	6.0					octadesk	second_page
+914	sinonimo de suporte	81	260	83.09	0.0	https://blog.octadesk.com/saiba-porque-sua-equipe-de-atendimento-nao-atende-bem/	0.0				61.0	140.0	8.0	62665.0	940.0	9.44706	21.0	61.0	7.0					octadesk	second_page
+915	plano e plano construtora	56	260	72.06	0.68	https://www.octadesk.com/planos/sistema-de-chamados	0.35																	octadesk	second_page
+916	zendesk	42	5400	72.46	71.86	https://www.octadesk.com/concorrentes/zendesk	0.41																	octadesk	second_page
+917	atendimento ao cliente treinamento	24	30	62.9	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.24				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+918	atendimento a empresas	71	20	83.24	2.21	https://blog.octadesk.com/dez-dicas-de-atendimento-ao-cliente-para-pequenas-empresas/	0.08				57.0	146.0	8.0	71415.0	1624.0	14.585172	25.0	60.0	5.0					octadesk	second_page
+919	campanha do outubro rosa	17	50	69.59	0.0	https://blog.octadesk.com/outubro-rosa/	0.05																	octadesk	second_page
+920	chat online para sites	56	30	51.14	1.56	https://blog.octadesk.com/chat-octadesk-canal-de-atendimento-online/	0.95				51.0	151.0	8.0	60813.0	937.0	9.881111	9.0	57.0	5.0					octadesk	second_page
+921	sla service desk	82	70	43.29	0.0	https://www.octadesk.com/help-desk	0.62	Conheça o Octadesk - Sistema de Help Desk	0.0	0.0	41.0	69.0	83.0	44636.0	691.0	10.377274	113.0	3.0	5.0					octadesk	second_page
+922	ebooks de	49	90	57.18	0.0	https://blog.octadesk.com/ebooks-atendimento-ao-cliente/	0.0																	octadesk	second_page
+923	modelo de cadastro de clientes excel	87	90	73.39	2.31	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.32																	octadesk	second_page
+924	central de relacionamento claro	69	480	78.59	3.03	https://blog.octadesk.com/monte-uma-central-de-atendimento-ao-cliente/	0.24				50.0	138.0	8.0	77358.0	2121.0	18.192865	9.0	62.0	5.0					octadesk	second_page
+925	treinamento de atendimento ao cliente	41	390	55.64	1.95	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.38				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+926	sebrae faça e aconteça	93	30	66.99	0.03	https://blog.octadesk.com/dez-dicas-de-atendimento-ao-cliente-para-pequenas-empresas/	0.06				57.0	146.0	8.0	71415.0	1624.0	14.585172	25.0	60.0	5.0					octadesk	second_page
+927	hierarquia de processos	85	390	59.77	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.03				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+928	abordagem ao cliente	62	170	60.41	3.38	https://blog.octadesk.com/guia-de-atendimento-ao-cliente/	0.13				59.0	125.0	8.0	71803.0	1765.0	16.12189	10.0	70.0	5.0					octadesk	second_page
+929	excelência em atendimento ao cliente	22	70	74.3	0.87	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.43				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+930	principais qualidades de um profissional	36	90	74.44	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.05				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+931	adapte se	95	480	78.07	0.0	https://blog.octadesk.com/contabilidade-nao-complicar-crise/	0.02																	octadesk	second_page
+932	cadastro de cliente gratis	39	90	82.6	4.95	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.73																	octadesk	second_page
+933	perguntas de atendimento ao cliente	19	70	54.18	2.05	https://blog.octadesk.com/13-maneiras-rapidas-para-verificar-se-sua-empresa-tem-um-problema-de-atendimento-ao-cliente/	0.33				67.0	139.0	8.0	63448.0	829.0	8.306014999999999	1.0	63.0	5.0					octadesk	second_page
+934	cadastros de clientes gratis	39	20	80.01	5.18	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.9																	octadesk	second_page
+935	desk to desk	60	90	62.45	0.0	https://www.octadesk.com/	0.0	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+960	programa help desk	60	20	61.69	67.0	https://www.octadesk.com/termo-de-uso	0.97																	octadesk	second_page
+961	modelo check list	49	590	62.92	0.03	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.02																	octadesk	second_page
+962	zappos blog	81	70	48.71	0.0	https://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.0																	octadesk	second_page
+963	importancia do cliente para a empresa	68	90	56.5	0.0	http://blog.octadesk.com/importancia-do-atendimento/	0.04																	octadesk	second_page
+964	que programa também é conhecido como software cliente	84	90	63.3	0.0	https://blog.octadesk.com/os-primeiros-passos-para-iniciar-um-programa-de-atendimento-ao-cliente/	0.0																	octadesk	second_page
+965	o que é diferença	72	880	76.05	0.0	https://blog.octadesk.com/diferenca-omnichannel-multichannel/	0.0				69.0	146.0	8.0	65707.0	1414.0	13.860016	39.0	58.0	7.0					octadesk	second_page
+966	reclamações aqui	19	40	82.86	0.09	http://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.08																	octadesk	second_page
+967	principais processos de uma empresa	83	90	55.82	0.74	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.12				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+968	facebook reclamações	91	30	89.03	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.03																	octadesk	second_page
+969	fidelizando clientes	95	70	71.41	2.6	https://blog.octadesk.com/fidelizacao-de-clientes-balde-furado/	0.31				58.0	151.0	8.0	73134.0	2243.0	18.96929	12.0	64.0	6.0					octadesk	second_page
+970	ebook para baixar	80	40	66.95	0.0	https://www.octadesk.com/materiais-para-helpdesk	0.11																	octadesk	second_page
+971	retenção e fidelização de clientes	64	70	60.44	0.0	https://blog.octadesk.com/fidelizacao-de-clientes-balde-furado/	0.16				58.0	151.0	8.0	73134.0	2243.0	18.96929	12.0	64.0	6.0					octadesk	second_page
+972	plano de garantia da qualidade	66	90	62.14	0.0	https://blog.octadesk.com/metodologia-qualidade-no-atendimento-ao-cliente/	0.02				69.0	141.0	8.0	73493.0	1669.0	14.798689000000001	17.0	64.0	5.0					octadesk	second_page
+973	planilha cadastro	39	30	68.62	0.0	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.11																	octadesk	second_page
+974	help desk free	75	170	59.77	21.05	https://www.octadesk.com/	0.91	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+999	check list modelo	66	110	63.43	0.0	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.01																	octadesk	second_page
+1000	atendimento american express	77	170	69.51	0.03	https://blog.octadesk.com/guia-de-atendimento-ao-cliente/	0.03				59.0	125.0	8.0	71803.0	1765.0	16.12189	10.0	70.0	5.0					octadesk	second_page
+1001	texto sobre atendimento ao cliente	32	50	68.45	0.52	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.37				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1002	chat disponível	89	70	85.61	0.03	https://www.octadesk.com/chat-para-site	0.24																	octadesk	second_page
+1003	tempo no site	32	40	82.21	0.06	https://www.octadesk.com/chat-para-site	0.09																	octadesk	second_page
+1004	modelos de planilhas de controle	69	40	76.79	0.97	http://blog.octadesk.com/planilha-de-controle-de-chamados/	0.62																	octadesk	second_page
+1005	atendimento diferenciado ao cliente	43	40	51.71	0.94	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.05				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1006	atendimento netflix	23	320	65.72	0.0	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.05				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+1007	o que gestão de pessoas	91	110	63.62	2.63	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.66				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1008	e commerce news	83	480	51.67	3.09	https://blog.octadesk.com/e-commerce-news/	0.17				50.0	156.0	8.0	55062.0	390.0	4.705604599999999	19.0	56.0	6.0					octadesk	second_page
+1009	planilha controle clientes	45	20	77.05	0.0	https://blog.octadesk.com/kit-planilhas-de-atendimento-ao-cliente/	0.44				64.0	148.0	8.0	63665.0	1215.0	12.411843	8.0	60.0	5.0					octadesk	second_page
+1010	planilha controle clientes	44	20	77.05	0.0	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.44																	octadesk	second_page
+1011	importancia dos clientes para a empresa	87	90	61.73	0.0	http://blog.octadesk.com/importancia-do-atendimento/	0.0																	octadesk	second_page
+1012	dicas de empresas	58	40	71.58	1.62	http://blog.octadesk.com/dez-dicas-de-atendimento-ao-cliente-para-pequenas-empresas/	0.33																	octadesk	second_page
+1013	qualidades de um profissional	92	260	69.17	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.03				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1014	sistema de chamados online	18	70	42.9	9.48	https://www.octadesk.com/	0.95	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1039	reclae aqui	73	170	72.93	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1040	o que é gestão por processo	46	20	66.67	0.03	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.22				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1041	site com chat	36	20	53.33	1.98	https://www.octadesk.com/chat-para-site	0.91																	octadesk	second_page
+1042	www endi com ultima hora	79	70	46.9	0.0	https://blog.octadesk.com/vendas-dia-dos-namorados-ig/	0.0				68.0	131.0	8.0	55471.0	454.0	5.375782	5.0	53.0	6.0					octadesk	second_page
+1043	relacionamento com o cliente	48	880	71.49	4.95	https://blog.octadesk.com/erros-comuns-relacionamento-com-o-cliente/	0.37				51.0	136.0	8.0	63522.0	1068.0	10.638834	31.0	58.0	9.0					octadesk	second_page
+1044	sistema de atendimento online	17	90	41.83	5.67	https://www.octadesk.com/	0.93	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1069	sistema de atendimento online	16	90	41.83	5.67	https://www.octadesk.com/sistema-atendimento-online-ad	0.93																	octadesk	second_page
+1070	dicas de melhorias para empresa	61	90	61.48	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.05				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1071	procedimento para atendimento ao cliente	17	70	54.92	8.08	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.28				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1072	relação entre empresa e cliente	27	90	66.83	3.84	https://blog.octadesk.com/relacao-sac-consumidor-melhorado/	0.03				57.0	145.0	8.0	55275.0	452.0	5.3496156	131.0	57.0	6.0					octadesk	second_page
+1073	reclme aqui	37	590	74.87	0.19	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.03																	octadesk	second_page
+1074	chat.com	99	1000	55.41	0.91	https://www.octadesk.com/chat-para-site	0.27																	octadesk	second_page
+1075	imagens atendimento ao cliente	87	30	62.26	0.0	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.0				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+1076	reclame aqui cursos 24 horas	30	30	69.26	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.12																	octadesk	second_page
+1077	controle de clientes excel	84	110	70.58	1.49	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.29																	octadesk	second_page
+1078	tipos de atendimento ao cliente	49	110	64.53	0.29	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.06				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1079	como fazer reclamação no reclame aqui	14	30	82.63	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1080	chamados	55	1600	68.78	1.69	https://www.octadesk.com/planos/sistema-de-chamados	0.0																	octadesk	second_page
+1081	caracteristicas de uma boa pessoa	83	90	72.64	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.0				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1082	otimo atendimento	20	90	66.42	0.0	https://blog.octadesk.com/otimo-atendimento-empresa-cresce/	0.1																	octadesk	second_page
+1083	reclamação de bancos onde fazer	95	70	85.85	0.0	https://blog.octadesk.com/como-diminuir-o-numero-de-reclamacoes-no-atendimento-ao-cliente/	0.02																	octadesk	second_page
+1084	cadastros de clientes	76	70	73.27	5.01	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.77																	octadesk	second_page
+1085	zendesl	40	90	72.03	9.02	https://www.octadesk.com/concorrentes/zendesk	0.48																	octadesk	second_page
+1086	atendimento e qualidade	15	90	57.61	0.0	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.04				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+1087	qualidade das pessoas	35	110	80.94	0.0	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.05				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1088	excelencia no atendimento ao cliente	21	110	72.36	2.05	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.3				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1089	atende bem	66	880	81.86	0.03	https://blog.octadesk.com/saiba-porque-sua-equipe-de-atendimento-nao-atende-bem/	0.23				61.0	140.0	8.0	62665.0	940.0	9.44706	21.0	61.0	7.0					octadesk	second_page
+1090	o que faz uma promoter	87	90	80.44	0.03	https://blog.octadesk.com/porque-usar-nps/	0.0				56.0	149.0	8.0	68052.0	1403.0	12.793158	128.0	57.0	7.0					octadesk	second_page
+1091	os planos	70	480	82.5	4.72	https://www.octadesk.com/planos/sistema-de-chamados	0.21																	octadesk	second_page
+1092	modelo de gestão de processos	23	90	70.25	2.73	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.49				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1093	planilha de cadastro de clientes gratis	40	210	69.27	1.85	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.56																	octadesk	second_page
+1094	zappos online	81	70	65.59	0.0	https://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.0																	octadesk	second_page
+1095	video atendimento ao cliente	26	140	73.22	0.0	https://www.octadesk.com/atendimento-ao-cliente	0.03				54.0	83.0	57.0	50365.0	1096.0	14.643105499999999	114.0	26.0	5.0					octadesk	second_page
+1096	gestão de processos e qualidade	81	20	77.13	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.65				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1097	fidelização de clientes conceito	72	70	73.23	9.12	https://blog.octadesk.com/o-que-e-customer-centric/	0.24				70.0	153.0	8.0	73717.0	2223.0	19.648113000000002	43.0	61.0	9.0					octadesk	second_page
+1098	o que é um bom atendimento	15	110	64.29	0.06	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.17				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1099	lista de check list	75	20	79.01	0.0	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.01																	octadesk	second_page
+1100	blog relacionamento	31	170	49.65	0.55	https://blog.octadesk.com/category/octa-school/metodologia-octadesk/relacionamento-com-o-cliente/	0.2																	octadesk	second_page
+1101	sistema ser	54	260	66.68	1.53	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.1				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+1102	quanto custa uma empresa	92	20	63.11	1.1	https://blog.octadesk.com/quanto-custa-um-atendimento-ruim-para-a-sua-empresa/	0.25																	octadesk	second_page
+1103	modelo de planilhas de controle	98	20	74.75	1.1	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.52																	octadesk	second_page
+1104	esselencia	79	140	59.09	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.0				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1105	reclame já	49	210	81.59	0.09	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1106	frases cliente satisfeito	71	90	58.48	0.0	https://blog.octadesk.com/atendimento-ao-cliente-como-se-destacar-da-concorrencia/	0.02				56.0	151.0	8.0	60744.0	963.0	10.373041	4.0	59.0	5.0					octadesk	second_page
+1107	qualidade no atendimento a clientes	8	20	50.03	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.05				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+1108	chat online site	24	40	52.44	1.82	https://www.octadesk.com/chat-para-site	0.88																	octadesk	second_page
+1109	planilha de cadastro	32	90	73.68	2.08	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.2																	octadesk	second_page
+1110	não mais pelo reclame aqui	42	390	97.9	1.49	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1111	sistema atendimento online	10	30	35.94	4.98	https://www.octadesk.com/sistema-atendimento-online-ad	0.96																	octadesk	first_page
+1112	dicas de arquitetos	41	30	73.17	0.29	https://blog.octadesk.com/atendimento-ao-cliente-para-arquitetos/	0.12				73.0	145.0	8.0	63229.0	1123.0	10.898479	38.0	57.0	10.0					octadesk	second_page
+1113	frases sobre atendimento ao cliente	47	50	56.86	0.29	http://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.07																	octadesk	second_page
+1114	planilha de prioridades	61	90	75.25	0.65	https://blog.octadesk.com/porque-nao-usar-planilha-de-atendimento/	0.11				72.0	156.0	8.0	74772.0	2131.0	18.345102	11.0	59.0	6.0					octadesk	second_page
+1115	um bom atendimento ao cliente	14	90	55.59	0.29	https://blog.octadesk.com/guia-de-atendimento-ao-cliente/	0.2				59.0	125.0	8.0	71803.0	1765.0	16.12189	10.0	70.0	5.0					octadesk	second_page
+1116	um bom atendimento ao cliente	13	90	55.59	0.29	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.2				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1117	planos da	30	30	76.79	5.11	https://www.octadesk.com/planos/sistema-de-chamados	0.28																	octadesk	second_page
+1118	helpdek	12	30	53.48	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.6				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1119	como criar processos em uma empresa	39	90	63.86	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.35				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1120	dinamica atendimento ao cliente	84	110	67.18	0.78	https://blog.octadesk.com/otimo-atendimento-empresa-cresce/	0.27																	octadesk	second_page
+1121	dicas relacionamento	86	480	80.96	0.87	https://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.19				54.0	156.0	8.0	65243.0	1362.0	13.107920000000002	18.0	58.0	8.0					octadesk	second_page
+1122	principios do bom atendimento	23	70	62.9	0.0	https://blog.octadesk.com/nocoes-de-atendimento-equipe/	0.0				59.0	137.0	8.0	72732.0	1696.0	14.864158999999999	19.0	65.0	5.0					octadesk	second_page
+1123	abra seu atendimento	99	2900	70.03	0.0	https://www.octadesk.com/chat-para-site	0.0																	octadesk	second_page
+1124	qualidades de uma pessoa boa	84	260	78.16	2.7	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.01				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1125	reclame reclame aqui	24	70	77.81	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1126	como diminuir o	17	90	78.73	0.0	https://blog.octadesk.com/como-diminuir-o-numero-de-reclamacoes-no-atendimento-ao-cliente/	0.09																	octadesk	second_page
+1127	curso de atendimento ao cliente gratis	46	90	77.46	1.36	https://blog.octadesk.com/sebrae-oferece-curso-gratuito-sobre-atendimento-ao-cliente/	0.64																	octadesk	second_page
+1128	planilha de controle	86	880	72.45	2.77	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.56																	octadesk	second_page
+1129	gestão em processos	82	20	62.17	4.98	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.86				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1130	reclameaqui reclameaqui reclameaqui	42	30	97.9	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.04																	octadesk	second_page
+1131	sistema sac	52	720	81.74	7.62	https://blog.octadesk.com/category/gestao/tecnologia/sistema-sac/	0.07																	octadesk	second_page
+1132	excelência no atendimento ao cliente	31	720	71.14	3.29	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.4				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1133	um bom atendimento ao publico	74	90	70.29	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.1				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1134	tudo sobre atendimento ao cliente	34	70	62.75	0.87	https://blog.octadesk.com/atendimento-ao-cliente-para-arquitetos/	0.43				73.0	145.0	8.0	63229.0	1123.0	10.898479	38.0	57.0	10.0					octadesk	second_page
+1135	gerenciador de clientes gratis	77	30	80.11	9.87	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.84																	octadesk	second_page
+1136	atividades sobre atendimento ao cliente	34	90	76.17	1.75	https://blog.octadesk.com/monte-uma-central-de-atendimento-ao-cliente/	0.04				50.0	138.0	8.0	77358.0	2121.0	18.192865	9.0	62.0	5.0					octadesk	second_page
+1137	gestão por processos	60	1600	63.62	6.09	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.58				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1138	help desk ti	12	30	50.85	5.67	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.93				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1139	reclameaui	56	110	75.75	0.13	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1140	contrario de empatia	32	90	66.09	0.0	https://blog.octadesk.com/empatia-melhora-o-mundo-e-faz-sua-empresa-crescer/	0.0				50.0	150.0	8.0	59224.0	650.0	7.255503999999999	5.0	59.0	5.0					octadesk	second_page
+1141	como atender o cliente	78	70	59.63	0.45	https://blog.octadesk.com/nocoes-de-atendimento-equipe/	0.17				59.0	137.0	8.0	72732.0	1696.0	14.864158999999999	19.0	65.0	5.0					octadesk	second_page
+1142	melhor blog	66	320	69.96	0.55	http://blog.octadesk.com/	0.0				0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	0.0					octadesk	second_page
+1143	o chamados	37	260	89.37	0.0	https://www.octadesk.com/sistema-de-chamados	0.01				40.0	69.0	78.0	44713.0	702.0	10.460045	13.0	3.0	5.0					octadesk	second_page
+1144	sistema service desk	9	20	47.54	29.91	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.89				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+1145	oq significa help	62	880	82.28	0.0	https://www.octadesk.com/	0.0	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1170	rec lame aqui	42	40	83.47	2.02	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+1171	como atender bem	86	170	55.73	0.0	https://blog.octadesk.com/dicas-para-atender-bem-hoje/	0.0																	octadesk	second_page
+1172	reclame com	78	260	72.51	1.43	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.09																	octadesk	second_page
+1173	o bom atendimento ao cliente	12	30	61.77	0.0	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.11				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1174	sistema de tickets	74	170	42.93	54.94	https://www.octadesk.com/	0.92	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1199	controle clientes	93	30	74.21	10.0	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.78				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1200	disponível chat	70	70	85.99	0.48	https://www.octadesk.com/chat-para-site	0.42																	octadesk	second_page
+1201	o atendimento ao cliente	33	20	73.78	0.0	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.21				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1202	caracteristica de um bom profissional	19	30	74.41	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.0				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1203	endereços de email legais	82	70	74.87	1.85	https://www.octadesk.com/politica-de-privacidade	0.29																	octadesk	second_page
+1204	omnichannel o que é	28	140	60.97	0.0	https://blog.octadesk.com/diferenca-omnichannel-multichannel/	0.23				69.0	146.0	8.0	65707.0	1414.0	13.860016	39.0	58.0	7.0					octadesk	second_page
+1205	helpdesk online	9	30	44.84	27.92	https://www.octadesk.com/	0.97	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+1230	atendimento de excelência	16	110	65.2	1.95	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.09				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1231	processos na empresa	36	70	63.79	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.42				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1232	processo de uma empresa	59	40	68.33	2.99	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.13				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1233	cadastro de clientes excel	61	1000	62.15	1.3	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.27																	octadesk	second_page
+1234	atenda	83	390	89.84	0.0	https://www.octadesk.com/chat-para-site	0.01																	octadesk	second_page
+1235	recleme aqui	47	320	75.05	0.19	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1236	valor do bom	51	90	84.81	0.0	https://blog.octadesk.com/bom-atendimento-valorizacao-produto/	0.01				55.0	156.0	8.0	66345.0	1488.0	14.218101999999998	10.0	58.0	6.0					octadesk	second_page
+1237	videos atendimento ao cliente	41	50	82.78	1.07	https://www.octadesk.com/atendimento-ao-cliente	0.05				54.0	83.0	57.0	50365.0	1096.0	14.643105499999999	114.0	26.0	5.0					octadesk	second_page
+1238	qual é o nome completo do brasil	58	880	80.41	0.0	https://blog.octadesk.com/kit-atendimento-ao-cliente-plan-ebook/	0.04																	octadesk	second_page
+1239	figuras de atendimento ao cliente	58	70	76.32	2.28	https://www.octadesk.com/atendimento-ao-cliente	0.33				54.0	83.0	57.0	50365.0	1096.0	14.643105499999999	114.0	26.0	5.0					octadesk	second_page
+1240	o que é gestão de processo	46	30	63.14	5.01	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.52				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1241	atendela	28	480	78.79	0.0	https://blog.octadesk.com/seu-atendimento-esta-pronto-para-a-geracao-z/	0.0																	octadesk	second_page
+1242	atendimento online netflix	25	70	66.13	1.72	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.06				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+1243	o que e suporte	98	70	79.51	0.0	https://www.octadesk.com/	0.02	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1268	chat para empresa	23	20	74.78	1.46	https://www.octadesk.com/chat-para-site	0.47																	octadesk	second_page
+1269	como fazer uma planilha de cadastro de clientes	56	20	65.9	2.67	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.48																	octadesk	second_page
+1270	recklame aqui	44	50	80.56	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1271	como melhorar a qualidade	53	90	78.34	0.0	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.01				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+1272	caracteristicas de gestão de pessoas	84	70	66.75	5.57	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.23				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1273	impacta treinamento	63	40	67.09	0.13	http://blog.octadesk.com/recrutamento-de-pessoas/	0.15																	octadesk	second_page
+1274	qualidade de pessoas	23	140	78.42	3.87	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.14				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1275	mau atendimento	51	720	69.02	2.83	https://blog.octadesk.com/mau-atendimento-excelente-produto/	0.07				64.0	135.0	8.0	69851.0	1779.0	16.03556	14.0	60.0	5.0					octadesk	second_page
+1276	plano incorporadora	87	320	60.43	0.0	https://www.octadesk.com/planos/sistema-de-chamados	0.01																	octadesk	second_page
+1277	planilha de excel para cadastro de clientes	49	20	69.66	1.33	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.36																	octadesk	second_page
+1278	reclaaqui	48	70	76.97	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+1279	a importancia da qualidade no atendimento	64	70	57.69	1.1	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.14				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1280	reeclame aqui	64	50	76.22	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1281	atendimento online para sites	47	20	51.8	2.67	https://blog.octadesk.com/chat-octadesk-canal-de-atendimento-online/	0.96				51.0	151.0	8.0	60813.0	937.0	9.881111	9.0	57.0	5.0					octadesk	second_page
+1282	atendimento por e-mail	33	20	76.34	0.97	https://blog.octadesk.com/desvantagens-atendimento-por-e-mail/	0.16																	octadesk	second_page
+1283	mal atendimento ao cliente	34	40	52.56	0.0	https://blog.octadesk.com/mau-atendimento-excelente-produto/	0.03				64.0	135.0	8.0	69851.0	1779.0	16.03556	14.0	60.0	5.0					octadesk	second_page
+1284	hierarquia dos processos	83	90	61.13	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.08				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1285	help desk workflow	18	90	44.33	0.0	https://www.octadesk.com/	1.0	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1310	atendimento eficaz ao cliente	69	50	69.14	0.0	https://blog.octadesk.com/atendimento-ao-cliente-como-se-destacar-da-concorrencia/	0.22				56.0	151.0	8.0	60744.0	963.0	10.373041	4.0	59.0	5.0					octadesk	second_page
+1311	o que é gestão por processos	37	140	56.18	1.75	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.28				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1312	planoeplano	74	1300	57.37	0.35	https://www.octadesk.com/	0.19	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1337	fresh desk	66	90	58.01	37.11	https://www.octadesk.com/concorrentes/freshdesk	0.71																	octadesk	second_page
+1338	a qualidade no atendimento ao cliente	10	20	54.51	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.13				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	first_page
+1339	portal novarejo	39	90	62.16	0.0	https://blog.octadesk.com/novarejo-qualidade-no-atendimento/	0.0																	octadesk	second_page
+1340	qualidades de um bom profissional	29	390	67.25	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.01				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1341	helpdesk caixa	75	90	63.25	2.28	https://blog.octadesk.com/anti-spam-no-octadesk/	0.34																	octadesk	second_page
+1342	reclamaaqui	54	110	73.78	0.26	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1343	planilha cadastro de cliente	21	20	74.64	0.0	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.37																	octadesk	second_page
+1344	atendimento ao cliente interno	91	70	68.32	2.18	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.11				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1345	qualidade de um bom profissional	20	70	65.73	0.58	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.04				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1346	help desk online gratis	32	70	59.21	119.24	https://www.octadesk.com/	0.95	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1371	produto de qualidade	71	90	72.34	0.84	https://blog.octadesk.com/mau-atendimento-excelente-produto/	0.15				64.0	135.0	8.0	69851.0	1779.0	16.03556	14.0	60.0	5.0					octadesk	second_page
+1372	eclame aqui	60	260	70.59	0.39	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1373	atendimento ao cliente netflix	32	110	56.37	1.79	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.1				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+1374	zenddesk	22	70	72.74	14.24	https://www.octadesk.com/concorrentes/zendesk	0.58																	octadesk	second_page
+1375	novo mundo sac	68	40	80.4	0.42	https://blog.octadesk.com/epoca-negocios-rodrigo-ricco/	0.05				58.0	148.0	8.0	55996.0	483.0	5.6271877	28.0	55.0	6.0					octadesk	second_page
+1376	processos de gestao de pessoas	83	50	64.48	0.0	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.33				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1377	tabela de cadastro de clientes excel	81	90	80.36	0.0	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.23																	octadesk	second_page
+1378	visitas gratis para seu site	71	70	41.51	0.35	https://www.octadesk.com/chat-para-site	0.45																	octadesk	second_page
+1379	qualidades de uma pessoa profissional	88	90	75.02	2.93	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.01				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1380	planilhas de tarefas	85	90	77.27	0.0	https://blog.octadesk.com/porque-nao-usar-planilha-de-atendimento/	0.23				72.0	156.0	8.0	74772.0	2131.0	18.345102	11.0	59.0	6.0					octadesk	second_page
+1381	o que significa gestao de pessoas	86	30	74.25	2.6	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.5				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1382	quais são os tipos de atendimento ao cliente	25	90	64.5	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.3				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1383	oque e cultura	87	1300	83.79	0.58	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.06				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+1384	gestão por processo	96	140	69.26	2.41	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.32				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1385	atendimento a clientes	62	320	72.03	0.87	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.12				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1386	planilha excel para cadastro de clientes gratis	40	20	62.31	2.54	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.59																	octadesk	second_page
+1387	chat gratis para seu site	26	70	61.35	1.43	https://www.octadesk.com/chat-para-site	0.71																	octadesk	second_page
+1388	dicas para atendimento ao cliente	12	30	63.52	0.0	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.16				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1389	tipos de planilha	67	40	70.61	0.03	http://blog.octadesk.com/planilha-de-controle-de-chamados/	0.16																	octadesk	second_page
+1390	o que é campanha outubro rosa	10	30	69.14	0.0	https://blog.octadesk.com/outubro-rosa/	0.0																	octadesk	first_page
+1391	como fidelizar seu cliente	78	70	70.51	3.29	https://blog.octadesk.com/dicas-de-como-fidelizar-clientes/	0.39				63.0	151.0	8.0	77503.0	2593.0	21.354012	15.0	50.0	5.0					octadesk	second_page
+1392	reclame aquí	31	70	89.27	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+1393	nps net promoter score	52	70	67.04	10.36	https://blog.octadesk.com/porque-usar-nps/	0.21				56.0	149.0	8.0	68052.0	1403.0	12.793158	128.0	57.0	7.0					octadesk	second_page
+1394	cartao bom atendimento	74	50	71.47	2.02	https://www.octadesk.com/	0.02	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1419	o que atendimento ao cliente	26	40	73.48	0.84	http://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.37																	octadesk	second_page
+1420	gestao por processo	99	70	69.15	10.33	http://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.43																	octadesk	second_page
+1421	reclane aqui	35	210	74.19	0.26	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.03																	octadesk	second_page
+1422	cartão bom atendimento	91	90	75.4	0.0	https://www.octadesk.com/	0.06	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1447	prova de atendimento ao cliente	63	70	71.06	5.21	https://www.octadesk.com/termo-de-uso	0.36																	octadesk	second_page
+1448	desde o primeiro momento playback	92	170	29.7	0.0	https://www.octadesk.com/casos-de-sucesso/sistema-de-atendimento	0.0				68.0	120.0	68.0	30581.0	973.0	21.284457999999997	223.0	9.0	5.0					octadesk	second_page
+1449	oque e cutura	99	90	82.55	0.0	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.01				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+1450	central relacionamento claro	67	70	77.7	3.35	https://blog.octadesk.com/monte-uma-central-de-atendimento-ao-cliente/	0.29				50.0	138.0	8.0	77358.0	2121.0	18.192865	9.0	62.0	5.0					octadesk	second_page
+1451	por chat	31	90	57.61	0.0	https://blog.octadesk.com/atendimento-por-chat/	0.17																	octadesk	second_page
+1452	o que é checklist	61	480	63.61	0.0	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.01																	octadesk	second_page
+1453	sistema de chamados free	33	480	58.38	56.83	https://www.octadesk.com/	0.88	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1478	plano e plano relacionamento	60	390	85.02	3.78	https://www.octadesk.com/	0.03	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1503	plano e plano relacionamento	59	390	85.02	3.78	https://blog.octadesk.com/erros-comuns-relacionamento-com-o-cliente/	0.03				51.0	136.0	8.0	63522.0	1068.0	10.638834	31.0	58.0	9.0					octadesk	second_page
+1504	projeto de atendimento ao cliente	22	20	71.23	6.58	https://blog.octadesk.com/atendimento-ao-cliente-para-arquitetos/	0.12				73.0	145.0	8.0	63229.0	1123.0	10.898479	38.0	57.0	10.0					octadesk	second_page
+1505	atualização automática	56	40	75.41	0.0	http://blog.octadesk.com/atualizacao-automatica-lista-tickets/	0.15																	octadesk	second_page
+1506	planilha excel gratis cadastro de clientes	40	140	68.83	0.91	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.45																	octadesk	second_page
+1507	recclame aqui	64	110	75.91	0.09	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1508	desk help	12	30	48.57	56.51	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.91				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1509	clientemais	95	260	77.63	0.03	https://blog.octadesk.com/kit-atendimento-ao-cliente-plan-ebook/	0.07																	octadesk	second_page
+1510	chat pelo telefone	43	30	78.97	0.0	https://blog.octadesk.com/chat-telefone-octadesk-novos-canais-de-atendimento/	0.47																	octadesk	second_page
+1511	servicedesk	97	1900	50.61	43.96	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.54				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1512	como fazer um bom atendimento	22	260	64.0	1.33	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.08				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1513	processos de uma empresa	48	70	63.92	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.2				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1514	cadastro de clientes excel gratis	39	210	62.65	1.59	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.5																	octadesk	second_page
+1515	modelo de chek list	23	140	53.21	11.17	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.03																	octadesk	second_page
+1516	recle aqui	41	70	74.08	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.18																	octadesk	second_page
+1517	qualidades de um bom funcionario	73	70	71.59	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.03				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1518	reclameaki	35	720	79.62	0.29	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1519	reclama aki	52	110	77.29	0.16	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+1520	a importancia do bom atendimento ao cliente	27	90	58.86	3.12	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.22				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1521	central de relacionamento claro telefone	93	90	78.62	0.65	https://blog.octadesk.com/monte-uma-central-de-atendimento-ao-cliente/	0.17				50.0	138.0	8.0	77358.0	2121.0	18.192865	9.0	62.0	5.0					octadesk	second_page
+1522	atendimento com qualidade	14	90	52.34	4.62	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.13				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1523	atendimento com qualidade	13	90	52.34	4.62	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.13				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+1524	laço outubro rosa	84	590	67.47	0.0	https://blog.octadesk.com/outubro-rosa/	0.0																	octadesk	second_page
+1525	analista de help desk	44	90	80.09	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.61				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1526	planilha cadastro de clientes gratis	51	110	72.74	1.49	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.68																	octadesk	second_page
+1527	atendimento de clientes	80	30	72.49	0.0	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.18				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1528	vale ressaltar	83	480	78.33	0.0	https://blog.octadesk.com/dicas-de-como-fidelizar-clientes/	0.0				63.0	151.0	8.0	77503.0	2593.0	21.354012	15.0	50.0	5.0					octadesk	second_page
+1529	script atendimento	53	30	51.63	0.0	https://blog.octadesk.com/dicas-de-como-fidelizar-clientes/	0.07				63.0	151.0	8.0	77503.0	2593.0	21.354012	15.0	50.0	5.0					octadesk	second_page
+1530	que é cultura	21	110	82.3	0.0	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.01				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+1531	o que é prática	67	50	84.4	0.0	https://blog.octadesk.com/customer-success/	0.0				0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0					octadesk	second_page
+1532	exelencia	87	2400	56.81	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.0				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1533	sistema de atendimento web	37	20	51.66	3.61	https://www.octadesk.com/	0.68	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1558	modelo de mapeamento de processos	89	70	50.95	1.98	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.34				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1559	trabalho sobre atendimento ao cliente	74	50	73.1	0.45	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.26				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1560	gestão de pessoas e do atendimento ao público para concurso	23	90	80.04	0.0	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.18				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1561	site de reclamação de empresas	21	50	83.39	0.06	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.33																	octadesk	second_page
+1562	sistema help desk gratuito	44	30	62.72	29.81	https://www.octadesk.com/	0.82	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1587	www chat com	27	590	55.72	0.58	https://www.octadesk.com/chat-para-site	0.25																	octadesk	second_page
+1588	dicas de relacionamento	71	880	71.02	0.32	https://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.11				54.0	156.0	8.0	65243.0	1362.0	13.107920000000002	18.0	58.0	8.0					octadesk	second_page
+1589	hepdesk	15	30	57.17	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.77				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1590	hepdesk	10	30	57.17	0.0	https://www.octadesk.com/	0.77	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+1615	recalme aqui	43	590	74.66	0.52	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1616	rodrigo ricco idade	23	90	86.54	0.0	https://blog.octadesk.com/podcast-rodrigo-ricco/	0.04				72.0	0.0	8.0	60709.0	434.0	4.8856015	4.0	56.0	6.0					octadesk	second_page
+1617	cadastro de cliente excel	76	140	69.99	1.27	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.24																	octadesk	second_page
+1618	como fazer feedback	49	880	75.42	0.78	https://blog.octadesk.com/o-que-fazer-feedback-do-cliente/	0.05																	octadesk	second_page
+1619	reclame aquio	63	140	74.98	0.06	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1620	o que é gestão de pessoas nas empresas	86	30	75.05	5.08	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.45				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1621	programa de atendimento ao cliente	10	30	57.19	0.78	https://blog.octadesk.com/os-primeiros-passos-para-iniciar-um-programa-de-atendimento-ao-cliente/	0.72																	octadesk	first_page
+1622	sistema de chat	18	70	44.91	5.37	https://www.octadesk.com/chat-para-site	0.99																	octadesk	second_page
+1623	sistema de help desk free	39	40	64.88	48.94	https://www.octadesk.com/	0.97	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1648	como diminuir	48	880	81.08	0.0	https://blog.octadesk.com/como-diminuir-o-numero-de-reclamacoes-no-atendimento-ao-cliente/	0.05																	octadesk	second_page
+1649	o que chat	77	110	85.73	0.32	https://www.octadesk.com/chat-para-site	0.06																	octadesk	second_page
+1650	planilha de controle de clientes excel	49	30	70.13	4.43	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.39																	octadesk	second_page
+1651	e-commerce news	67	320	51.74	3.29	https://blog.octadesk.com/e-commerce-news/	0.14				50.0	156.0	8.0	55062.0	390.0	4.705604599999999	19.0	56.0	6.0					octadesk	second_page
+1652	frases de qualidade no atendimento	23	70	54.76	2.73	https://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.05																	octadesk	second_page
+1653	projeto de pesquisa sobre atendimento ao cliente	35	90	78.06	0.0	https://blog.octadesk.com/metodologia-qualidade-no-atendimento-ao-cliente/	0.36				69.0	141.0	8.0	73493.0	1669.0	14.798689000000001	17.0	64.0	5.0					octadesk	second_page
+1654	sistema cliente	13	70	49.39	0.0	https://www.octadesk.com/atendimento-ao-cliente	0.1				54.0	83.0	57.0	50365.0	1096.0	14.643105499999999	114.0	26.0	5.0					octadesk	second_page
+1655	sistema cliente	12	70	49.39	0.0	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.1				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+1656	avaliação de atendimento ao cliente	68	70	58.35	1.89	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.23				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1657	o que significa atendimento ao cliente	56	30	71.2	0.97	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.17				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1658	para chat	44	20	64.67	0.0	https://blog.octadesk.com/tag/chat-para-site/	0.17																	octadesk	second_page
+1659	decepsionar	84	210	76.68	0.0	https://blog.octadesk.com/se-voce-decepcionar-o-seu-cliente-vai-perde-lo-sim/	0.0				52.0	147.0	8.0	61508.0	799.0	8.402159	10.0	60.0	7.0					octadesk	second_page
+1660	sistema de help desk gratuito	33	30	53.89	0.0	https://www.octadesk.com/	0.96	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1685	historia real de terror	64	40	74.93	0.0	https://blog.octadesk.com/historia-de-terror-de-atendimento-ao-cliente-verdadeira-parte-1/	0.03																	octadesk	second_page
+1686	conceito de atendimento ao cliente	33	90	64.34	0.0	https://blog.octadesk.com/nocoes-de-atendimento-equipe/	0.07				59.0	137.0	8.0	72732.0	1696.0	14.864158999999999	19.0	65.0	5.0					octadesk	second_page
+1687	apareça	97	2900	79.86	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+1688	caracteristicas de um bom funcionario	27	260	76.47	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.0				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1689	reclame aqui aqui	27	20	72.09	6.15	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.04																	octadesk	second_page
+1690	atendimento online para site	57	70	48.39	1.89	https://blog.octadesk.com/chat-octadesk-canal-de-atendimento-online/	0.92				51.0	151.0	8.0	60813.0	937.0	9.881111	9.0	57.0	5.0					octadesk	second_page
+1691	tempo no seu site	50	30	69.27	0.13	https://www.octadesk.com/chat-para-site	0.16																	octadesk	second_page
+1692	empresas de atendimento ao cliente	18	20	59.37	1.69	https://blog.octadesk.com/dez-dicas-de-atendimento-ao-cliente-para-pequenas-empresas/	0.52				57.0	146.0	8.0	71415.0	1624.0	14.585172	25.0	60.0	5.0					octadesk	second_page
+1693	planilha cadastro de clientes excel gratis	35	110	68.98	1.62	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.47																	octadesk	second_page
+1694	reclame aqio	38	140	78.88	0.32	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1695	www.helpdesk	86	40	27.32	17.1	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.58				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1696	exemplo de bom atendimento ao cliente	37	70	55.86	2.28	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.25				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1697	checklist supermercado	97	40	60.5	0.0	https://blog.octadesk.com/checklist-agilidade-qualidade-no-atendimento-ao-cliente/	0.03				59.0	146.0	8.0	60646.0	833.0	9.001418	6.0	61.0	5.0					octadesk	second_page
+1698	sebrae atendimento ao cliente	34	70	73.87	1.36	https://blog.octadesk.com/sebrae-oferece-curso-gratuito-sobre-atendimento-ao-cliente/	0.13																	octadesk	second_page
+1699	historia terror reais	48	90	65.65	0.0	http://blog.octadesk.com/historia-de-terror-de-atendimento-ao-cliente-verdadeira-parte-1/	0.03																	octadesk	second_page
+1700	para site	45	30	68.79	3.06	https://www.octadesk.com/chat-para-site	0.06																	octadesk	second_page
+1701	como fazer um bom atendimento ao cliente	14	140	60.74	0.45	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.19				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1702	software para help desk	94	40	54.01	58.66	https://www.octadesk.com/termo-de-uso	0.94																	octadesk	second_page
+1703	melhora ou melhoria	51	320	85.53	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.0				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1704	definição de atendimento ao cliente	71	50	65.58	0.0	http://blog.octadesk.com/nocoes-de-atendimento-equipe/	0.05																	octadesk	second_page
+1705	fresdesk	60	90	60.99	20.98	https://www.octadesk.com/concorrentes/freshdesk	0.54																	octadesk	second_page
+1706	supervisor de atendimento	91	390	83.22	0.32	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.19				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1707	zendesk sla	25	70	59.77	18.25	https://www.octadesk.com/concorrentes/zendesk	0.29																	octadesk	second_page
+1708	qualidade no atendimento ao publico	35	90	62.04	0.65	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.08				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1709	zendesk help desk	67	70	62.67	0.0	https://www.octadesk.com/concorrentes/zendesk	0.86																	octadesk	second_page
+1710	modelo de processos	53	90	74.0	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.14				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1711	rreclame aqui	41	90	71.88	0.58	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.05																	octadesk	second_page
+1712	tudo sobre atendimento	23	90	61.39	5.63	https://blog.octadesk.com/	0.13				67.0	49.0	8.0	65032.0	933.0	8.955591	330.0	75.0	5.0					octadesk	second_page
+1713	planilha de clientes	44	260	67.37	1.66	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.38																	octadesk	second_page
+1714	site de chat gratis	69	30	62.94	1.53	https://www.octadesk.com/chat-para-site	0.92																	octadesk	second_page
+1715	treinamento para atendimento ao cliente	46	70	57.14	2.11	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.41				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1716	o que é atendimento ao cliente	35	390	70.32	1.14	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.26				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1717	caracteristicas de um profissional de sucesso	84	90	65.78	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.03				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1718	planilha sac excel	81	30	53.66	0.06	https://blog.octadesk.com/porque-nao-usar-planilha-de-atendimento/	0.15				72.0	156.0	8.0	74772.0	2131.0	18.345102	11.0	59.0	6.0					octadesk	second_page
+1719	avaliação atendimento ao cliente	62	90	59.23	6.87	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.39				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+1720	globo canais	59	40	84.55	0.0	http://blog.octadesk.com/canais-de-atendimento-globo/	0.02																	octadesk	second_page
+1721	creclame aqui	53	90	76.81	0.16	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1722	artigos sobre atendimento ao cliente	55	70	71.41	2.5	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.13				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1723	reclame aqui facebook	20	140	78.61	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+1724	compare telefone	69	40	80.17	0.0	https://www.octadesk.com/comparativo/controle-de-chamados	0.07																	octadesk	second_page
+1725	como atender bem um cliente	92	480	61.93	0.61	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.11				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+1726	reclame aki	51	4400	72.04	0.16	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.03																	octadesk	second_page
+1727	frases de atendimento ao cliente	32	70	53.91	0.0	https://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.09																	octadesk	second_page
+1728	atendimento ao cliente o que é	49	30	69.1	0.0	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.25				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+1729	qualidade do atendimento ao publico	36	90	59.87	0.0	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.04				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+1730	o que é rosa	44	720	78.36	0.0	https://blog.octadesk.com/outubro-rosa/	0.0																	octadesk	second_page
+1731	planilha cadastro clientes excel	50	70	71.27	3.81	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.36																	octadesk	second_page
+1732	chat no site	23	50	61.62	2.05	https://www.octadesk.com/chat-para-site	0.69																	octadesk	second_page
+1733	cadastro de clientes no excel	71	110	64.76	3.71	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.28																	octadesk	second_page
+1734	o que significa help desk	25	70	75.48	4.72	https://www.octadesk.com/	0.54	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1759	sistemas de help desk	18	20	32.2	36.2	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.88				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1760	sistemas de help desk	9	20	32.2	36.2	https://www.octadesk.com/	0.88	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	first_page
+1785	sistemas de help desk	10	20	32.2	36.2	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.88				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	first_page
+1786	boa indole	90	390	76.62	0.0	https://blog.octadesk.com/recrutamento-de-pessoas/	0.02				64.0	142.0	8.0	69537.0	2123.0	19.882939999999998	23.0	56.0	7.0					octadesk	second_page
+1787	roge distribuidora de cosmeticos	44	70	71.39	0.32	https://www.octadesk.com/casos-de-sucesso/sistema-de-atendimento	0.28				68.0	120.0	68.0	30581.0	973.0	21.284457999999997	223.0	9.0	5.0					octadesk	second_page
+1788	planilha de controle de ferramentas	91	70	71.45	1.56	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.54																	octadesk	second_page
+1789	perguntas sobre atendimento ao cliente	64	70	58.87	0.58	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.33				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1790	planilha de cadastro de clientes excel gratis	38	260	74.99	1.04	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.46																	octadesk	second_page
+1791	reclame ja	21	320	72.92	0.13	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1792	reclame aque	49	90	77.04	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+1793	gera service	89	90	55.62	0.0	http://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.0																	octadesk	second_page
+1794	sites de chat online	88	40	64.5	1.23	http://blog.octadesk.com/chat-octadesk-canal-de-atendimento-online/	0.9																	octadesk	second_page
+1795	ebook baixar	90	90	71.54	0.32	https://www.octadesk.com/materiais-para-helpdesk	0.06																	octadesk	second_page
+1796	trabalho de atendimento ao cliente	97	30	70.02	0.06	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.24				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1797	planilha check list	73	50	69.85	0.0	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.12																	octadesk	second_page
+1798	como atender bem os clientes	80	40	57.52	1.72	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.09				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+1799	muito mais band	89	20	93.0	0.0	https://blog.octadesk.com/octadesk-na-band/	0.0				17.0	0.0	8.0	56620.0	458.0	5.277287	3.0	55.0	7.0					octadesk	second_page
+1800	caracteristicas de um bom profissional	17	210	74.11	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.03				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1801	frases para clientes especiais	37	110	76.35	0.0	https://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.02																	octadesk	second_page
+1802	modelo de planilha de controle	99	90	74.65	3.19	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.49																	octadesk	second_page
+1803	rwclame aqui	43	170	71.63	0.74	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1804	a cliente ou o cliente	39	90	66.37	0.0	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.01				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1805	atendebem	61	390	82.92	0.0	https://blog.octadesk.com/saiba-porque-sua-equipe-de-atendimento-nao-atende-bem/	0.04				61.0	140.0	8.0	62665.0	940.0	9.44706	21.0	61.0	7.0					octadesk	second_page
+1806	sistema de os	60	110	54.38	2.47	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.73				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+1807	cliente insatisfeito	37	210	54.0	0.0	https://blog.octadesk.com/tag/cliente-insatisfeito/	0.0				51.0	0.0	8.0	59113.0	503.0	5.4556527	10.0	61.0	5.0					octadesk	second_page
+1808	o que é um checklist	26	110	67.52	0.0	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.01																	octadesk	second_page
+1809	band reportagens	82	50	78.64	0.0	https://blog.octadesk.com/octadesk-na-band/	0.09				17.0	0.0	8.0	56620.0	458.0	5.277287	3.0	55.0	7.0					octadesk	second_page
+1810	processos da qualidade	94	30	72.72	3.74	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.14				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1811	curso de atendimento ao cliente sebrae	32	50	74.74	0.09	https://blog.octadesk.com/sebrae-oferece-curso-gratuito-sobre-atendimento-ao-cliente/	0.27																	octadesk	second_page
+1812	site da real	98	90	54.52	0.0	https://www.octadesk.com/chat-para-site	0.0																	octadesk	second_page
+1813	curso atendimento ao cliente sebrae	36	50	73.34	0.0	https://blog.octadesk.com/sebrae-oferece-curso-gratuito-sobre-atendimento-ao-cliente/	0.28																	octadesk	second_page
+1814	atendimento excelente ao cliente	19	40	58.66	0.0	http://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.07																	octadesk	second_page
+1815	o que faz um promoter	87	260	78.47	0.0	https://blog.octadesk.com/porque-usar-nps/	0.02				56.0	149.0	8.0	68052.0	1403.0	12.793158	128.0	57.0	7.0					octadesk	second_page
+1816	planilha cadastro de clientes	50	260	72.82	3.19	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.46																	octadesk	second_page
+1817	freshdesk	49	1300	55.41	22.84	https://www.octadesk.com/concorrentes/freshdesk	0.61																	octadesk	second_page
+1818	construtora plano	63	880	51.32	2.18	https://www.octadesk.com/planos/sistema-de-chamados	0.1																	octadesk	second_page
+1819	planilha cadastro clientes excel gratis	40	70	69.24	0.06	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.37																	octadesk	second_page
+1820	canais da globo	68	320	78.44	0.03	https://blog.octadesk.com/canais-de-atendimento-globo/	0.02																	octadesk	second_page
+1821	outubro rosa brasil	40	20	60.76	0.0	https://blog.octadesk.com/outubro-rosa/	0.03																	octadesk	second_page
+1822	como melhorar seu relacionamento	33	110	73.25	0.0	https://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.01				54.0	156.0	8.0	65243.0	1362.0	13.107920000000002	18.0	58.0	8.0					octadesk	second_page
+1823	a comunicacao	95	30	69.99	0.0	https://blog.octadesk.com/saiba-como-a-tecnologia-pode-melhorar-a-comunicacao-em-sua-equipe-de-atendimento/	0.04				67.0	149.0	8.0	65882.0	1010.0	9.853981	141.0	67.0	5.0					octadesk	second_page
+1824	quais as qualidades de um bom profissional	36	20	69.37	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.01				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1825	o sac	23	90	69.88	0.0	https://blog.octadesk.com/o-sac-nunca-foi-tao-pop/	0.0				50.0	133.0	8.0	55867.0	495.0	5.754739	132.0	57.0	6.0					octadesk	second_page
+1826	planilha para controle de clientes	26	50	78.79	3.61	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.62																	octadesk	second_page
+1827	formas de relacionamento com o cliente	43	90	59.83	4.23	https://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.09				54.0	156.0	8.0	65243.0	1362.0	13.107920000000002	18.0	58.0	8.0					octadesk	second_page
+1828	planilha de clientes excel	80	110	76.23	0.03	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.22																	octadesk	second_page
+1829	perguntas rapidas	90	170	78.81	0.0	https://blog.octadesk.com/13-maneiras-rapidas-para-verificar-se-sua-empresa-tem-um-problema-de-atendimento-ao-cliente/	0.0				67.0	139.0	8.0	63448.0	829.0	8.306014999999999	1.0	63.0	5.0					octadesk	second_page
+1830	sistema de chat online	35	50	39.64	3.09	https://www.octadesk.com/chat-para-site	0.93																	octadesk	second_page
+1831	excelência no atendimento	30	590	73.69	1.4	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.18				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1832	planilha de cadastro de clientes gratis excel	38	70	62.9	1.49	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.32																	octadesk	second_page
+1833	etica no atendimento ao cliente	22	50	74.36	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.1				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+1834	planilhas cadastro de clientes	21	20	67.66	0.09	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.57																	octadesk	second_page
+1835	cadastro clientes gratis	46	110	81.9	5.11	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.67																	octadesk	second_page
+1836	e-commerce dicas	68	30	69.74	0.0	https://blog.octadesk.com/atendimento-online-e-commerce/	0.49				58.0	155.0	8.0	75364.0	2197.0	18.665411	20.0	57.0	9.0					octadesk	second_page
+1837	site chat	14	50	45.43	2.41	https://www.octadesk.com/chat-para-site	0.82																	octadesk	second_page
+1838	plano construtora	57	70	60.74	2.93	https://www.octadesk.com/planos/sistema-de-chamados	0.19																	octadesk	second_page
+1839	atendimento online site	79	20	53.97	4.39	https://www.octadesk.com/chat-para-site	0.91																	octadesk	second_page
+1840	escelencia	82	390	56.98	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.02				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1841	frases de um bom atendimento ao cliente	29	70	62.22	1.43	https://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.12																	octadesk	second_page
+1842	planilha para cadastro de clientes	38	170	73.59	1.17	http://content.octadesk.com/lp-planilha-cadastro-de-clientes	0.44																	octadesk	second_page
+1843	software de atendimento	22	20	52.24	3.42	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.9				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+1844	reclamaqui	43	480	73.65	0.09	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+1845	o que ecultura	94	40	81.9	0.0	http://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.01													1.0	3.0			octadesk	second_page
+1846	modelo de check list	73	880	57.84	0.03	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.03																	octadesk	second_page
+1847	sistema de chamados gratuito	14	90	49.32	44.38	https://www.octadesk.com/sistema-de-chamados	0.79				40.0	69.0	78.0	44713.0	702.0	10.460045	13.0	3.0	5.0					octadesk	second_page
+1848	atendimento do cliente	80	20	69.62	0.16	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.24				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1849	planilha controle de clientes	29	70	65.95	5.05	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.43																	octadesk	second_page
+1850	helpdesck	13	110	48.11	84.04	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.63				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1851	gestao de processos	64	1000	57.61	4.23	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.75				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1852	o que é desk	20	320	73.36	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.01				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1853	site do cliente	68	70	67.22	0.0	https://www.octadesk.com/chat-para-site	0.0																	octadesk	second_page
+1854	reclame aaqui	48	320	72.19	0.06	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1855	empresas de service desk	87	20	32.42	49.01	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.96				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1856	ferramentas de help desk	31	70	54.51	30.66	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.95				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1857	que significa empatia	93	70	83.69	0.0	https://blog.octadesk.com/empatia-melhora-o-mundo-e-faz-sua-empresa-crescer/	0.0				50.0	150.0	8.0	59224.0	650.0	7.255503999999999	5.0	59.0	5.0					octadesk	second_page
+1858	promoter	92	6600	75.24	0.58	https://blog.octadesk.com/porque-usar-nps/	0.01				56.0	149.0	8.0	68052.0	1403.0	12.793158	128.0	57.0	7.0					octadesk	second_page
+1859	não pelo reclame aqui	32	50	97.9	2.11	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.04																	octadesk	second_page
+1860	o que fazer para o relacionamento melhorar	79	90	73.18	0.0	https://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.02				54.0	156.0	8.0	65243.0	1362.0	13.107920000000002	18.0	58.0	8.0					octadesk	second_page
+1861	historia deterror	69	90	74.13	0.0	http://blog.octadesk.com/historia-de-terror-de-atendimento-ao-cliente-verdadeira-parte-1/	0.0																	octadesk	second_page
+1862	atendimento aos clientes	88	70	69.07	0.13	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.18				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1863	ecelencia	83	140	59.57	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.0				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1864	curso 24 horas reclame aqui	33	30	77.98	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.19																	octadesk	second_page
+1865	planilha para cadastrar clientes	36	90	66.63	0.81	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.64																	octadesk	second_page
+1866	cliente satisfeito frases	80	720	62.83	0.0	https://blog.octadesk.com/atendimento-ao-cliente-como-se-destacar-da-concorrencia/	0.01				56.0	151.0	8.0	60744.0	963.0	10.373041	4.0	59.0	5.0					octadesk	second_page
+1867	relacionamento ao cliente	97	40	70.56	4.07	http://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.34																	octadesk	second_page
+1868	conversa online gratis	47	210	72.66	1.07	https://www.octadesk.com/chat-para-site	0.84																	octadesk	second_page
+1869	mal atendimento ou mau atendimento	22	90	67.46	0.0	https://blog.octadesk.com/mau-atendimento-excelente-produto/	0.0				64.0	135.0	8.0	69851.0	1779.0	16.03556	14.0	60.0	5.0					octadesk	second_page
+1870	checklist modelo	38	210	62.35	0.03	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.03																	octadesk	second_page
+1871	gerente de processos	82	140	84.1	3.03	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.38				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1872	chat novo	96	20	65.95	0.32	https://blog.octadesk.com/chat-octadesk-canal-de-atendimento-online/	0.42				51.0	151.0	8.0	60813.0	937.0	9.881111	9.0	57.0	5.0					octadesk	second_page
+1873	cadastro para clientes	75	30	70.15	7.33	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.84																	octadesk	second_page
+1874	help desk gratuito	46	40	58.28	50.48	https://blog.octadesk.com/webinar-sistema-de-chamados-octadesk/	0.88																	octadesk	second_page
+1875	artigo sobre atendimento ao cliente	39	70	64.82	0.06	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.14				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1876	rosas em movimento	32	90	68.56	0.0	https://blog.octadesk.com/outubro-rosa/	0.01																	octadesk	second_page
+1877	reckame aqui	56	390	72.31	0.29	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1878	central de atendimentos claro	66	20	80.3	1.07	https://blog.octadesk.com/monte-uma-central-de-atendimento-ao-cliente/	0.45				50.0	138.0	8.0	77358.0	2121.0	18.192865	9.0	62.0	5.0					octadesk	second_page
+1879	planilha clientes	38	70	74.85	0.71	https://blog.octadesk.com/tag/planilha-de-cadastro-de-clientes/	0.29																	octadesk	second_page
+1880	sistema de ticket	79	50	54.91	18.05	https://www.octadesk.com/	0.7	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1905	controle de senhas de atendimento	93	70	40.77	3.12	https://blog.octadesk.com/seguranca-atendimento-ao-cliente/	0.79				68.0	142.0	8.0	61256.0	864.0	9.465196	9.0	58.0	5.0					octadesk	second_page
+1906	sistema de atendimento online gratis	19	20	52.17	0.0	https://www.octadesk.com/	0.58	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1931	roge distribuidora	39	1600	86.19	0.16	https://www.octadesk.com/casos-de-sucesso/sistema-de-atendimento	0.01				68.0	120.0	68.0	30581.0	973.0	21.284457999999997	223.0	9.0	5.0					octadesk	second_page
+1932	reclaem aqui	42	70	74.08	0.09	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+1933	planilha de produtividade	50	170	74.77	0.06	https://blog.octadesk.com/planilha-de-atendimento-ao-cliente/	0.24																	octadesk	second_page
+1934	zendeks	44	90	70.87	7.46	https://www.octadesk.com/concorrentes/zendesk	0.51																	octadesk	second_page
+1935	planilha de clientes gratis	37	70	69.61	1.56	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.76																	octadesk	second_page
+1936	videos de atendimento ao cliente	48	140	83.36	0.0	https://www.octadesk.com/atendimento-ao-cliente	0.06				54.0	83.0	57.0	50365.0	1096.0	14.643105499999999	114.0	26.0	5.0					octadesk	second_page
+1937	cultura organizacional netflix	21	90	70.69	0.0	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.04				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+1938	novarejo	72	260	64.29	0.45	https://blog.octadesk.com/novarejo-qualidade-no-atendimento/	0.1																	octadesk	second_page
+1939	gestao processos	89	30	66.82	3.61	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.7				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+1940	netflix atendimento ao cliente	36	70	50.15	1.85	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.1				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+1941	o que é cdata	67	90	76.15	0.0	https://blog.octadesk.com/tag/inovacoes-em-atendimento/	0.0																	octadesk	second_page
+1942	primeiros passos extrema	93	90	62.72	0.0	https://blog.octadesk.com/os-primeiros-passos-para-iniciar-um-programa-de-atendimento-ao-cliente/	0.0																	octadesk	second_page
+1943	atendimento bom	35	260	78.06	0.0	https://blog.octadesk.com/bom-atendimento-valorizacao-produto/	0.0				55.0	156.0	8.0	66345.0	1488.0	14.218101999999998	10.0	58.0	6.0					octadesk	second_page
+1944	historia de terror verdadeiras	100	50	68.18	0.0	https://blog.octadesk.com/historia-de-terror-de-atendimento-ao-cliente-verdadeira-parte-1/	0.0																	octadesk	second_page
+1945	historia do terror	87	90	80.1	0.0	http://blog.octadesk.com/historia-de-terror-de-atendimento-ao-cliente-verdadeira-parte-1/	0.02																	octadesk	second_page
+1946	a pergunta definitiva	52	90	75.84	0.32	https://blog.octadesk.com/porque-usar-nps/	0.28				56.0	149.0	8.0	68052.0	1403.0	12.793158	128.0	57.0	7.0					octadesk	second_page
+1947	empresa excelência	83	260	43.49	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.01				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1948	como se escreve atendente	94	90	89.73	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.0				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1949	regras de atendimento ao cliente	66	50	67.86	1.79	https://www.octadesk.com/	0.09	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+1974	sistema para abertura de chamados	73	90	53.0	2.41	https://www.octadesk.com/comparativo/controle-de-chamados	0.79																	octadesk	second_page
+1975	relcame aqui	39	320	69.89	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+1976	o que é qualidade no atendimento	19	90	58.29	4.13	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.03				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+1977	o que é qualidade no atendimento	20	90	58.29	4.13	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.03				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+1978	da help desk	14	90	61.33	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.0				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+1979	planilha de controle de clientes gratis	28	70	74.1	4.52	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.72																	octadesk	second_page
+1980	dicas para relacionamento	84	140	78.97	0.13	https://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.09				54.0	156.0	8.0	65243.0	1362.0	13.107920000000002	18.0	58.0	8.0					octadesk	second_page
+1981	controle de cliente	50	40	65.27	3.97	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.62				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+1982	atendimento ao cliente ppt	33	140	62.71	1.2	https://blog.octadesk.com/guia-de-atendimento-ao-cliente/	0.09				59.0	125.0	8.0	71803.0	1765.0	16.12189	10.0	70.0	5.0					octadesk	second_page
+1983	desk service	7	20	43.66	10.26	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.76				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	first_page
+1984	desck	94	210	60.53	0.0	https://www.octadesk.com/	0.01	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2009	zen desk	44	210	72.89	41.61	https://www.octadesk.com/concorrentes/zendesk	0.72																	octadesk	second_page
+2010	imagens de atendimento ao cliente	23	140	60.73	0.0	https://www.octadesk.com/	0.02	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2035	excelência	83	8100	62.22	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.0				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+2036	helpdes	13	40	52.71	0.0	https://www.octadesk.com/	0.48	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2061	chat atendimento online gratis	29	90	57.58	12.9	https://www.octadesk.com/chat-para-site	0.55																	octadesk	second_page
+2062	como mapear processos	98	140	67.73	2.34	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.49				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+2063	geração z no mercado de trabalho	91	210	74.65	0.87	https://blog.octadesk.com/seu-atendimento-esta-pronto-para-a-geracao-z/	0.05																	octadesk	second_page
+2064	de pessoas	34	480	75.48	1.04	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.05				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+2065	o que e experiencia	63	140	69.91	0.0	https://blog.octadesk.com/o-que-e-customer-centric/	0.0				70.0	153.0	8.0	73717.0	2223.0	19.648113000000002	43.0	61.0	9.0					octadesk	second_page
+2066	assistente de atendimento o que faz	72	90	87.2	1.98	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.06				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+2067	net atendimento consumidor	96	20	79.15	0.91	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.32				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+2068	chat online grátis	58	30	66.35	1.4	https://www.octadesk.com/chat-para-site	0.9																	octadesk	second_page
+2069	características de um bom profissional	19	90	74.41	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.01				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+2070	atendimento à clientes	59	50	75.56	0.0	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.04				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+2071	modelo checklist	29	140	57.67	0.06	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.01																	octadesk	second_page
+2072	supervisor de atendimento ao cliente	36	90	80.43	1.01	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.29				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+2073	site reclame aqui	29	2400	80.41	0.13	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.04																	octadesk	second_page
+2074	treinamento atendimento ao cliente	36	260	61.83	2.24	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.32				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+2075	como organizar financeiramente uma empresa	93	70	66.5	0.42	https://blog.octadesk.com/qualidade-no-atendimento/	0.08				66.0	132.0	8.0	79376.0	2792.0	22.372002	6.0	63.0	5.0					octadesk	second_page
+2076	exelência	69	880	68.17	0.0	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.0				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+2077	netflix atendimento	20	210	59.15	0.0	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.06				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+2078	reclaque aqui	58	140	71.83	0.26	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+2079	oque cultura	85	70	84.61	0.06	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.1				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+2080	suporte help desk	92	70	64.06	78.47	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.97				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+2081	como tratar um cliente	98	90	64.59	0.0	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.01				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+2082	chat de	78	590	61.99	0.52	https://blog.octadesk.com/tag/chat-de-atendimento-online/	0.63																	octadesk	second_page
+2083	o que significa processar dados	81	70	75.49	0.03	https://www.octadesk.com/politica-de-privacidade	0.04																	octadesk	second_page
+2084	atendimento online gratis	49	90	57.95	1.98	https://www.octadesk.com/	0.34	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2109	problemas para resolver	42	110	74.34	2.99	https://blog.octadesk.com/suporte-ao-cliente-tecnologia/	0.02				62.0	151.0	8.0	65155.0	1123.0	11.142660000000001	142.0	62.0	5.0					octadesk	second_page
+2110	gestão dos processos	68	70	63.65	4.88	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.43				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+2111	central de atendimento bom	98	880	75.27	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.01				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+2112	vagas para atendimento ao cliente	47	20	75.92	0.19	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.49				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+2113	crescimento empresarial	71	140	49.68	2.34	http://blog.octadesk.com/tag/crescimento-empresarial/	0.05																	octadesk	second_page
+2114	projeto atendimento ao cliente	27	90	74.92	1.85	https://blog.octadesk.com/metodologia-qualidade-no-atendimento-ao-cliente/	0.29				69.0	141.0	8.0	73493.0	1669.0	14.798689000000001	17.0	64.0	5.0					octadesk	second_page
+2115	mau atendimento ao cliente	18	260	54.3	0.65	http://blog.octadesk.com/mau-atendimento-excelente-produto/	0.06													1.0	3.0	23.0	32.0	octadesk	second_page
+2116	atendimento cliente	92	140	73.1	0.13	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.23				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+2117	dica de relacionamento	99	40	87.85	0.0	http://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.11																	octadesk	second_page
+2118	planilha controle de clientes excel	55	30	71.83	0.0	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.38																	octadesk	second_page
+2119	site o tempo	37	140	77.04	0.0	https://www.octadesk.com/chat-para-site	0.01																	octadesk	second_page
+2120	como deve ser o atendimento ao cliente	15	70	62.0	0.45	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.16				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+2121	como deve ser o atendimento ao cliente	16	70	62.0	0.45	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.16				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+2122	contato com o cliente	44	90	66.24	0.0	https://www.octadesk.com/	0.03	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2147	globo com atendimento ao cliente	19	90	68.06	0.0	http://blog.octadesk.com/canais-de-atendimento-globo/	0.13																	octadesk	second_page
+2148	planilha de cadastro de clientes	45	590	76.94	1.17	http://content.octadesk.com/lp-planilha-cadastro-de-clientes	0.36																	octadesk	second_page
+2149	recalame aqui	53	110	79.14	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+2150	politica de atendimento ao cliente	28	70	61.99	0.94	https://www.octadesk.com/politica-de-privacidade	0.07																	octadesk	second_page
+2151	www aconteceonline net	73	70	64.58	0.0	https://blog.octadesk.com/atendimento-online-e-commerce/	0.0				58.0	155.0	8.0	75364.0	2197.0	18.665411	20.0	57.0	9.0					octadesk	second_page
+2152	reclamações de clientes	23	90	65.77	1.56	https://blog.octadesk.com/como-diminuir-o-numero-de-reclamacoes-no-atendimento-ao-cliente/	0.05																	octadesk	second_page
+2153	é cultura	39	90	84.16	0.0	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.0				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+2154	atendente de sac	20	140	84.16	0.94	https://blog.octadesk.com/4-dicas-para-se-tornar-o-melhor-atendente-de-sac-da-sua-empresa/	0.17																	octadesk	second_page
+2155	escala de velocidade	33	90	84.48	0.0	https://blog.octadesk.com/ganhe-escala-e-velocidade-no-atendimento-ao-cliente-com-chatbots/	0.0				64.0	147.0	8.0	56295.0	491.0	5.700328400000001	5.0	55.0	7.0					octadesk	second_page
+2156	atendente de help desk o que faz	26	70	73.35	12.93	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.32				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+2157	recrame aqui	27	170	74.13	0.13	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.12																	octadesk	second_page
+2158	planilha de controle de clientes	34	140	67.91	0.97	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.63																	octadesk	second_page
+2159	oque é cultura	85	1900	83.04	0.35	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.04				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+2160	oqo arquiteto faz	88	20	81.18	0.0	https://blog.octadesk.com/atendimento-ao-cliente-para-arquitetos/	0.05				73.0	145.0	8.0	63229.0	1123.0	10.898479	38.0	57.0	10.0					octadesk	second_page
+2161	atendimento ao clientes	68	20	71.09	0.16	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.35				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+2162	empreendedorismo e gestao	78	30	71.8	5.96	https://blog.octadesk.com/empreendedorismo-gestao/	0.6				56.0	137.0	8.0	59350.0	556.0	6.0572870000000005	68.0	61.0	5.0					octadesk	second_page
+2163	a excelencia no atendimento ao cliente	30	70	70.01	0.39	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.37				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+2164	www planoeplano com br	71	140	59.9	0.35	https://www.octadesk.com/	0.16	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2189	casos de sucesso	89	390	73.77	2.05	https://www.octadesk.com/casos-de-sucesso/sistema-de-atendimento	0.12				68.0	120.0	68.0	30581.0	973.0	21.284457999999997	223.0	9.0	5.0					octadesk	second_page
+2190	diferença entre tem e têm	69	320	75.93	0.0	https://blog.octadesk.com/diferenca-omnichannel-multichannel/	0.0				69.0	146.0	8.0	65707.0	1414.0	13.860016	39.0	58.0	7.0					octadesk	second_page
+2191	artigo atendimento ao cliente	27	40	64.27	1.23	http://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.06																	octadesk	second_page
+2192	atendimento ao cliente por telefone dicas	36	90	61.72	2.63	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.21				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+2193	reclamame aqui	39	70	74.08	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+2194	reclame aqui empresas	26	390	90.74	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.0																	octadesk	second_page
+2195	processos em uma empresa	57	20	64.28	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.13				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+2196	recrutamento de pessoas	39	590	76.44	1.53	https://blog.octadesk.com/recrutamento-de-pessoas/	0.32				64.0	142.0	8.0	69537.0	2123.0	19.882939999999998	23.0	56.0	7.0					octadesk	second_page
+2197	seu cliente pode pagar mais	94	140	85.21	0.29	https://blog.octadesk.com/bom-atendimento-valorizacao-produto/	0.29				55.0	156.0	8.0	66345.0	1488.0	14.218101999999998	10.0	58.0	6.0					octadesk	second_page
+2198	o que é qualidade no atendimento ao cliente	21	70	61.88	2.11	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.27				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+2199	o que é qualidade no atendimento ao cliente	22	70	61.88	2.11	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.27				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+2200	o bom atendimento	14	40	68.13	0.16	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.12				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+2201	questões de atendimento ao cliente	93	90	80.13	0.0	https://blog.octadesk.com/suporte-ao-cliente-tecnologia/	0.18				62.0	151.0	8.0	65155.0	1123.0	11.142660000000001	142.0	62.0	5.0					octadesk	second_page
+2202	em atendimento	78	260	71.8	0.0	https://blog.octadesk.com/category/empreendedorismo/inovacao/inovacoes-em-atendimento/	0.23																	octadesk	second_page
+2203	o que e atendimento	26	260	69.41	0.0	https://blog.octadesk.com/o-que-e-customer-centric/	0.05				70.0	153.0	8.0	73717.0	2223.0	19.648113000000002	43.0	61.0	9.0					octadesk	second_page
+2204	planilha cadastro de clientes excel	46	140	68.21	1.17	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.35																	octadesk	second_page
+2205	atendimento de qualidade ao cliente	16	50	54.72	0.0	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.16				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+2206	como responder um cliente insatisfeito	91	90	68.36	0.0	https://blog.octadesk.com/como-lidar-com-um-cliente-enfurecido-e-terminar-bem-seu-dia/	0.01				61.0	154.0	8.0	62103.0	811.0	8.3554735	12.0	64.0	5.0					octadesk	second_page
+2207	cartão bom atendimento online	36	30	67.87	0.0	https://www.octadesk.com/	0.1	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2232	a qualidade	28	260	80.25	0.0	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.01				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+2233	frases de bom atendimento ao cliente	26	110	66.55	1.82	https://blog.octadesk.com/atendimento-ao-cliente-como-se-destacar-da-concorrencia/	0.12				56.0	151.0	8.0	60744.0	963.0	10.373041	4.0	59.0	5.0					octadesk	second_page
+2234	oque é feedback	96	210	71.94	0.0	https://blog.octadesk.com/o-que-fazer-feedback-do-cliente/	0.01																	octadesk	second_page
+2235	baixar ebook	97	480	73.65	2.37	https://www.octadesk.com/materiais-para-helpdesk	0.06																	octadesk	second_page
+2236	formas de atendimento ao cliente	63	70	63.92	0.0	https://blog.octadesk.com/metodologia-qualidade-no-atendimento-ao-cliente/	0.07				69.0	141.0	8.0	73493.0	1669.0	14.798689000000001	17.0	64.0	5.0					octadesk	second_page
+2237	qualidade no atendimento ao público	50	590	67.25	2.24	https://blog.octadesk.com/gestao-de-pessoas-atendimento-ao-cliente/	0.05				63.0	150.0	8.0	72486.0	2054.0	18.039345	41.0	63.0	5.0					octadesk	second_page
+2238	central de atendimento ao cliente	34	70	81.6	2.7	https://blog.octadesk.com/monte-uma-central-de-atendimento-ao-cliente/	0.13				50.0	138.0	8.0	77358.0	2121.0	18.192865	9.0	62.0	5.0					octadesk	second_page
+2239	planilha de tempo	85	90	61.83	0.61	https://blog.octadesk.com/kit-planilhas-de-atendimento-ao-cliente/	0.26				64.0	148.0	8.0	63665.0	1215.0	12.411843	8.0	60.0	5.0					octadesk	second_page
+2240	o que é omnichannel	22	140	53.7	7.82	https://blog.octadesk.com/diferenca-omnichannel-multichannel/	0.22				69.0	146.0	8.0	65707.0	1414.0	13.860016	39.0	58.0	7.0					octadesk	second_page
+2241	como melhorar o seu relacionamento	31	90	76.92	0.0	https://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.13				54.0	156.0	8.0	65243.0	1362.0	13.107920000000002	18.0	58.0	8.0					octadesk	second_page
+2242	caracteristicas boas de uma pessoa	88	320	72.83	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.0				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+2243	modelo de lista de verificação	62	90	66.12	0.0	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.0																	octadesk	second_page
+2244	mercado de aplicativos	77	170	69.31	4.79	https://blog.octadesk.com/mercado-de-aplicativos-no-octadesk/	0.23																	octadesk	second_page
+2245	sistema de sac	30	30	67.03	2.99	https://www.octadesk.com/	0.59	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2270	cadastro clientes excel gratis	47	70	62.97	2.05	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.51																	octadesk	second_page
+2271	reclamen aqui	35	70	78.43	0.39	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.05																	octadesk	second_page
+2272	reclamae aqui	28	140	73.23	0.16	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.03																	octadesk	second_page
+2273	agradecimento cliente	86	70	63.77	0.0	https://blog.octadesk.com/atendimento-ao-cliente-para-arquitetos/	0.04				73.0	145.0	8.0	63229.0	1123.0	10.898479	38.0	57.0	10.0					octadesk	second_page
+2274	planilha excel para cadastro de clientes	52	20	73.38	8.01	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.36																	octadesk	second_page
+2275	atendimento ao cliente sebrae	34	90	72.02	1.2	https://blog.octadesk.com/sebrae-oferece-curso-gratuito-sobre-atendimento-ao-cliente/	0.12																	octadesk	second_page
+2276	resolva o sistema	94	210	86.7	0.0	https://www.octadesk.com/help-desk	0.0	Conheça o Octadesk - Sistema de Help Desk	0.0	0.0	41.0	69.0	83.0	44636.0	691.0	10.377274	113.0	3.0	5.0					octadesk	second_page
+2277	reclame aui	41	880	81.8	0.19	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.04																	octadesk	second_page
+2278	o que e atendimento ao cliente	42	50	70.74	0.16	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.4				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+2279	planilhas de organização	96	40	71.44	0.0	https://blog.octadesk.com/kit-planilhas-de-atendimento-ao-cliente/	0.32				64.0	148.0	8.0	63665.0	1215.0	12.411843	8.0	60.0	5.0					octadesk	second_page
+2280	novo auto atendimento	92	70	79.43	0.0	https://blog.octadesk.com/novidades-base-de-conhecimento/	0.03				67.0	133.0	8.0	61920.0	910.0	9.685078	5.0	56.0	5.0					octadesk	second_page
+2281	sebrae atendimento online	30	30	77.23	0.0	https://blog.octadesk.com/sebrae-oferece-curso-gratuito-sobre-atendimento-ao-cliente/	0.18																	octadesk	second_page
+2282	sistema help desk free	31	40	65.89	44.51	https://www.octadesk.com/	0.95	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2307	qualidade no atendimento ao público interno e externo	95	170	64.78	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.01				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	second_page
+2308	reclame aquii	62	140	71.84	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.03																	octadesk	second_page
+2309	atedimento ao cliente	74	30	70.95	0.0	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.29				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+2310	www dicasdemulher	84	70	76.1	0.0	https://blog.octadesk.com/outubro-rosa/	0.05																	octadesk	second_page
+2311	como atender um cliente	81	480	65.37	1.72	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.04				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+2312	planilha controle de qualidade	71	20	58.54	2.67	https://blog.octadesk.com/kit-planilhas-de-atendimento-ao-cliente/	0.37				64.0	148.0	8.0	63665.0	1215.0	12.411843	8.0	60.0	5.0					octadesk	second_page
+2313	o que é um atendimento de qualidade	15	40	51.54	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.1				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+2314	o que é um atendimento de qualidade	16	40	51.54	0.0	https://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.1				57.0	153.0	8.0	75319.0	1947.0	16.345144	20.0	61.0	5.0					octadesk	second_page
+2315	o que e cultura organizacional	98	210	75.93	0.13	https://blog.octadesk.com/cultura-de-atendimento-o-que-e/	0.06				50.0	147.0	8.0	89076.0	3262.0	23.133055	33.0	63.0	20.0					octadesk	second_page
+2316	ferramenta service desk	15	70	49.21	7.69	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.94				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+2317	estudo de caso qualidade no atendimento ao cliente	85	90	72.86	0.0	http://blog.octadesk.com/historia-de-terror-de-atendimento-ao-cliente-verdadeira-parte-1/	0.25																	octadesk	second_page
+2318	script atendimento online	63	50	50.3	8.83	http://blog.octadesk.com/dicas-de-como-fidelizar-clientes/	0.24																	octadesk	second_page
+2319	caracteristicas de um profissional etico	26	90	75.12	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.0				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	second_page
+2320	guias american express	61	90	72.14	0.0	https://blog.octadesk.com/guia-de-atendimento-ao-cliente/	0.0				59.0	125.0	8.0	71803.0	1765.0	16.12189	10.0	70.0	5.0					octadesk	second_page
+2321	distribuidora roge	44	170	78.41	0.0	https://www.octadesk.com/casos-de-sucesso/sistema-de-atendimento	0.01				68.0	120.0	68.0	30581.0	973.0	21.284457999999997	223.0	9.0	5.0					octadesk	second_page
+2322	cadastro clientes excel	96	210	69.76	1.89	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.28																	octadesk	second_page
+2323	sla de atendimento	85	70	45.72	0.0	https://www.octadesk.com/comparativo/controle-de-chamados	0.03																	octadesk	second_page
+2324	dicas sobre relacionamento	63	70	75.84	0.06	https://blog.octadesk.com/dicas-relacionamento-com-o-cliente/	0.11				54.0	156.0	8.0	65243.0	1362.0	13.107920000000002	18.0	58.0	8.0					octadesk	second_page
+2325	melhor atendimento ao cliente	31	70	70.27	0.0	https://blog.octadesk.com/guia-de-atendimento-ao-cliente/	0.16				59.0	125.0	8.0	71803.0	1765.0	16.12189	10.0	70.0	5.0					octadesk	second_page
+2326	reclamequi	46	320	75.56	0.35	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+2327	frases de satisfação do cliente	47	90	66.76	3.68	https://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.19																	octadesk	second_page
+2328	um cliente insatisfeito	60	70	53.61	0.0	https://blog.octadesk.com/tag/cliente-insatisfeito/	0.0				51.0	0.0	8.0	59113.0	503.0	5.4556527	10.0	61.0	5.0					octadesk	second_page
+2329	diminuir	93	1900	78.11	0.0	https://blog.octadesk.com/como-diminuir-o-numero-de-reclamacoes-no-atendimento-ao-cliente/	0.01																	octadesk	second_page
+2330	sla zendesk	24	70	65.39	0.0	https://www.octadesk.com/concorrentes/zendesk	0.37																	octadesk	second_page
+2331	baixando ebooks	89	30	71.31	0.0	https://www.octadesk.com/materiais-para-helpdesk	0.03																	octadesk	second_page
+2332	chat online para site	47	170	58.92	1.69	https://blog.octadesk.com/chat-octadesk-canal-de-atendimento-online/	0.87				51.0	151.0	8.0	60813.0	937.0	9.881111	9.0	57.0	5.0					octadesk	second_page
+2333	dicas e-commerce	52	50	72.33	7.85	https://blog.octadesk.com/ig-e-commerce-atendimento/	0.43																	octadesk	second_page
+2334	como fazer check list	72	70	62.59	1.04	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.01																	octadesk	second_page
+2335	chat.com online	52	20	50.26	1.07	https://www.octadesk.com/chat-para-site	0.93																	octadesk	second_page
+2336	frases para um bom atendimento ao cliente	30	90	62.22	0.0	https://blog.octadesk.com/6-dicas-da-zappos-sobre-atendimento-ao-cliente/	0.14																	octadesk	second_page
+2337	video de atendimento ao cliente	44	140	85.09	0.0	https://www.octadesk.com/atendimento-ao-cliente	0.07				54.0	83.0	57.0	50365.0	1096.0	14.643105499999999	114.0	26.0	5.0					octadesk	second_page
+2338	empresa help	49	30	37.21	0.35	https://www.octadesk.com/	0.2	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2363	treinamento em atendimento ao cliente	54	30	56.79	1.2	http://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.47																	octadesk	second_page
+2364	controle de clientes gratis	39	70	79.59	4.43	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.77																	octadesk	second_page
+2365	sac revista epoca	72	40	70.02	0.06	https://blog.octadesk.com/epoca-negocios-rodrigo-ricco/	0.05				58.0	148.0	8.0	55996.0	483.0	5.6271877	28.0	55.0	6.0					octadesk	second_page
+2366	planilha de controle de	70	20	74.56	0.0	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.57																	octadesk	second_page
+2367	rclame aqui	56	390	75.44	1.49	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+2368	sobre atendimento ao cliente	57	30	70.14	0.0	https://blog.octadesk.com/	0.46				67.0	49.0	8.0	65032.0	933.0	8.955591	330.0	75.0	5.0					octadesk	second_page
+2369	relatorio de atendimento ao cliente	36	50	61.53	0.0	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.15				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+2370	analista help desk	52	30	86.09	5.7	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.37				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+2371	planilha de clientes excel gratis	82	50	64.9	2.11	http://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.44																	octadesk	second_page
+2372	como surgiu o atendimento ao cliente	15	70	62.74	7.85	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.35				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+2373	treinamento impacta	75	20	69.69	0.06	https://blog.octadesk.com/recrutamento-de-pessoas/	0.11				64.0	142.0	8.0	69537.0	2123.0	19.882939999999998	23.0	56.0	7.0					octadesk	second_page
+2374	desk	84	2400	56.4	2.86	https://www.octadesk.com/	0.09	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2399	atendimento gratis	46	110	70.19	0.0	https://www.octadesk.com/	0.18	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2424	empatia com o cliente	46	90	49.0	0.0	https://blog.octadesk.com/empatia-melhora-o-mundo-e-faz-sua-empresa-crescer/	0.0				50.0	150.0	8.0	59224.0	650.0	7.255503999999999	5.0	59.0	5.0					octadesk	second_page
+2425	a importancia de um bom atendimento	76	70	53.81	0.29	https://blog.octadesk.com/7-dicas-bom-atendimento-ao-cliente/	0.05				70.0	138.0	8.0	74110.0	2183.0	18.704628	9.0	60.0	8.0					octadesk	second_page
+2426	rodrigo novo	48	70	88.19	0.0	https://blog.octadesk.com/epoca-negocios-rodrigo-ricco/	0.0				58.0	148.0	8.0	55996.0	483.0	5.6271877	28.0	55.0	6.0					octadesk	second_page
+2427	reclame aquu	41	590	76.54	0.16	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.02																	octadesk	second_page
+2428	sistema de clientes	32	20	61.45	0.81	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.73				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	second_page
+2429	atendimento com excelência	17	90	65.56	0.87	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.09				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+2430	qual o nome completo do brasil	63	720	84.6	1.59	http://blog.octadesk.com/kit-atendimento-ao-cliente-plan-ebook/	0.01																	octadesk	second_page
+2431	o que e cliente	92	90	64.64	0.0	https://blog.octadesk.com/o-que-e-customer-centric/	0.03				70.0	153.0	8.0	73717.0	2223.0	19.648113000000002	43.0	61.0	9.0					octadesk	second_page
+2432	ser sistema	51	90	68.33	0.0	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.09				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	second_page
+2433	como atender bem um cliente na recepção	76	90	60.38	0.0	https://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.06				63.0	151.0	8.0	94029.0	4469.0	30.293846000000002	13.0	64.0	5.0					octadesk	second_page
+2434	novos canais	91	260	79.44	0.0	https://blog.octadesk.com/chat-telefone-octadesk-novos-canais-de-atendimento/	0.03																	octadesk	second_page
+2435	chat no seu site	40	20	59.18	1.69	https://www.octadesk.com/chat-para-site	0.87																	octadesk	second_page
+2436	help desck	15	140	57.77	0.0	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.72				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	second_page
+2437	a qualidade no atendimento	16	40	49.47	1.59	http://blog.octadesk.com/como-melhorar-a-qualidade-no-atendimento-ao-cliente/	0.17																	octadesk	second_page
+2438	a qualidade no atendimento	17	40	49.47	1.59	http://blog.octadesk.com/qualidade-no-atendimento-ao-cliente/	0.17																	octadesk	second_page
+2439	ereclame aqui	45	110	81.45	0.03	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+2440	planilha para cadastro de clientes excel	36	30	63.17	0.0	https://blog.octadesk.com/planilha-de-cadastro-de-clientes/	0.34																	octadesk	second_page
+2441	modelo de checklist	32	480	54.6	0.13	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.03																	octadesk	second_page
+2442	metodos de atendimento ao cliente	39	90	69.41	3.48	https://blog.octadesk.com/metodologia-qualidade-no-atendimento-ao-cliente/	0.19				69.0	141.0	8.0	73493.0	1669.0	14.798689000000001	17.0	64.0	5.0					octadesk	second_page
+2443	whatsapp atrapalha relacionamento	61	260	74.73	0.0	https://blog.octadesk.com/erros-comuns-relacionamento-com-o-cliente/	0.03				51.0	136.0	8.0	63522.0	1068.0	10.638834	31.0	58.0	9.0					octadesk	second_page
+2444	videos sobre bom atendimento ao cliente	69	90	93.65	0.0	https://blog.octadesk.com/nocoes-de-atendimento-equipe/	0.18				59.0	137.0	8.0	72732.0	1696.0	14.864158999999999	19.0	65.0	5.0					octadesk	second_page
+2445	reclamações empresas	55	20	84.13	0.0	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.11																	octadesk	second_page
+2446	como atender um cliente bem	95	50	59.84	0.29	https://blog.octadesk.com/dicas-para-atender-bem-hoje/	0.12																	octadesk	second_page
+2447	canais novos	86	90	82.08	0.0	https://blog.octadesk.com/chat-telefone-octadesk-novos-canais-de-atendimento/	0.06																	octadesk	second_page
+2448	o que é atender	53	90	75.89	0.0	https://blog.octadesk.com/dicas-para-atender-bem-hoje/	0.0																	octadesk	second_page
+2449	planilha sac	55	90	67.08	4.46	https://blog.octadesk.com/kit-planilhas-de-atendimento-ao-cliente/	0.01				64.0	148.0	8.0	63665.0	1215.0	12.411843	8.0	60.0	5.0					octadesk	second_page
+2450	conversa no chat gratis	87	20	66.6	1.14	https://www.octadesk.com/chat-para-site	0.86																	octadesk	second_page
+2451	reclameaqi	40	90	80.44	0.29	https://blog.octadesk.com/como-evitar-que-sua-empresa-apareca-no-reclame-aqui/	0.01																	octadesk	second_page
+2452	controle de prazos	93	90	70.88	0.0	https://www.octadesk.com/	0.12	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	second_page
+2477	dicas para empresas	56	30	78.08	0.0	https://blog.octadesk.com/dez-dicas-de-atendimento-ao-cliente-para-pequenas-empresas/	0.08				57.0	146.0	8.0	71415.0	1624.0	14.585172	25.0	60.0	5.0					octadesk	second_page
+2478	atendimento personalizado ao cliente	50	70	58.75	0.84	https://blog.octadesk.com/excelencia-no-atendimento-importancia/	0.07				65.0	145.0	8.0	76803.0	2312.0	18.595629000000002	24.0	61.0	7.0					octadesk	second_page
+1	outubro rosa o que é	1	260	60.57	1.36	https://blog.octadesk.com/outubro-rosa/	0.15																	octadesk	top_ranking
+2	o que é outubro rosa	3	880	58.05	1.07	https://blog.octadesk.com/outubro-rosa/	0.18																	octadesk	top_ranking
+6	o que é help desk	3	480	66.37	16.97	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.36				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	top_ranking
+7	planilha de controle de chamados ti	1	90	63.58	3.81	https://blog.octadesk.com/planilha-de-controle-de-chamados/	0.5																	octadesk	top_ranking
+9	check list de atendimento ao cliente	1	70	39.51	7.62	https://blog.octadesk.com/checklist-agilidade-qualidade-no-atendimento-ao-cliente/	0.22				59.0	146.0	8.0	60646.0	833.0	9.001418	6.0	61.0	5.0					octadesk	top_ranking
+10	como surgiu o outubro rosa	3	320	59.76	1.4	https://blog.octadesk.com/outubro-rosa/	0.11																	octadesk	top_ranking
+36	planilha de atendimento ao cliente	1	50	68.13	0.03	http://blog.octadesk.com/planilha-de-atendimento-ao-cliente/	0.24																	octadesk	top_ranking
+37	sistema de chamados	3	260	60.67	20.23	https://www.octadesk.com/sistema-de-chamados	0.82				40.0	69.0	78.0	44713.0	702.0	10.460045	13.0	3.0	5.0					octadesk	top_ranking
+330	o que é service desk	3	170	58.58	10.23	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.4				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	top_ranking
+331	controle de atendimento ao cliente	1	30	50.11	3.84	https://blog.octadesk.com/planilha-de-atendimento-ao-cliente/	0.46																	octadesk	top_ranking
+333	profissional de atendimento	2	90	45.92	0.0	https://blog.octadesk.com/caracteristicas-de-um-profissional-de-atendimento-ao-cliente/	0.02				66.0	147.0	8.0	60451.0	920.0	9.864187	7.0	57.0	5.0					octadesk	top_ranking
+334	check list de atendimento ao cliente	2	70	39.51	7.62	https://blog.octadesk.com/checklist-de-atendimento-helpdesk/	0.22																	octadesk	top_ranking
+336	sistema de atendimento	3	110	41.6	6.58	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.88				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	top_ranking
+337	guia de atendimento	2	70	63.18	10.85	https://blog.octadesk.com/guia-de-atendimento-ao-cliente/	0.09				59.0	125.0	8.0	71803.0	1765.0	16.12189	10.0	70.0	5.0					octadesk	top_ranking
+338	sistema de atendimento ao cliente	2	70	45.05	8.86	https://blog.octadesk.com/sistema-de-atendimento-ao-cliente/	0.92				68.0	150.0	8.0	73471.0	1974.0	17.695417000000003	31.0	62.0	5.0					octadesk	top_ranking
+339	help dest	3	90	56.25	0.0	https://www.octadesk.com/	0.57	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	top_ranking
+364	melhoria no atendimento	3	90	58.63	2.31	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.06				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	top_ranking
+365	help desk o que é	3	90	67.45	6.74	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.32				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	top_ranking
+372	planilha de atendimento ao cliente	2	50	68.13	0.03	http://blog.octadesk.com/kit-planilhas-de-atendimento-ao-cliente/	0.24																	octadesk	top_ranking
+374	sistema helpdesk	3	70	42.5	81.96	https://www.octadesk.com/funcionalidades/atendimento-ao-cliente	0.99				85.0	120.0	55.0	33328.0	463.0	9.466515	249.0	2.0	5.0					octadesk	top_ranking
+375	sistema de atendimento ao cliente	3	70	45.05	8.86	https://www.octadesk.com/	0.92	Help Desk e sistema de atendimento ao cliente Octadesk	20.0	13.0	54.0	121.0	105.0	30577.0	434.0	9.428656	393.0	2.0	5.0	10.0	10.0	24.545454545454547	34.18181818181818	octadesk	top_ranking
+400	processo de atendimento ao cliente	2	40	58.15	0.0	https://blog.octadesk.com/gestao-de-processos-no-atendimento/	0.07				67.0	151.0	8.0	74036.0	2543.0	22.54984	28.0	52.0	5.0					octadesk	top_ranking
+436	service desk o que é	3	50	60.39	34.67	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.36				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	top_ranking
+554	help desk e service desk	3	30	45.34	46.04	https://blog.octadesk.com/diferencas-service-desk-e-help-desk/	0.7				72.0	146.0	8.0	67714.0	1729.0	16.277282999999997	23.0	57.0	5.0					octadesk	top_ranking
